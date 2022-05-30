@@ -1,0 +1,15 @@
+
+mysql: root:Mysql123.@tcp(120.76.128.13:3306)/datadairy?parseTime=true&loc=Local
+
+redishost: 120.76.128.13:6379
+redispwd: renai123456.
+# redishost: localhost:6379
+# redispwd: 
+redisdb: 8
+
+emailsender: 1391382333@qq.com
+emailspassword: rutcnjoyrdhtbabg
+emailsmtpaddr: smtp.qq.com
+emailsmtport: 587
+
+port: :8082 

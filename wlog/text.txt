@@ -1,0 +1,1307 @@
+[2022-02-10 19:23:39][ERROR] [go/DAL/emailcodedispose: emailcodedispose.go: 44]550 Mail content denied. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000726 [MCsWi8ivKFkiTRq+5sReQR/Xyy0Q4STQ/dWcbDuk+EE28wDiN78UbejrV2oXxm3prA== IP: 222.89.24.215]
+[2022-02-10 19:31:17][ERROR] [go/DAL/emailcodedispose: emailcodedispose.go: 44]550 Mail content denied. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000726 [MCsWi8ivKFkiTRq+5sReQR9LmSqxoAQ3Ocok7GV44zCeQ0klh8edfh8czZQ1l6n1hQ== IP: 222.89.24.215]
+[2022-02-10 19:31:17][ERROR] [go/UI/acceptfunction: acceptfunction.go: 58]失败！
+[2022-02-10 21:06:51][ERROR] [Register: acceptfunction.go: 58]失败！
+[2022-02-10 21:07:00][ERROR] [Register: acceptfunction.go: 58]失败！
+[2022-02-10 21:07:01][ERROR] [Register: acceptfunction.go: 58]失败！
+[2022-02-10 21:08:16][ERROR] [Register: acceptfunction.go: 58]失败！
+[2022-02-10 21:08:34][ERROR] [Register: acceptfunction.go: 58]失败！
+[2022-02-10 21:10:22][ERROR] [Register: acceptfunction.go: 58]失败！
+[2022-02-10 21:11:31][ERROR] [Register: acceptfunction.go: 58]失败！
+[2022-02-10 21:20:28][ERROR] [CheckUserAccount: dbfunction.go: 41]找不到用户！
+[2022-02-10 21:20:33][ERROR] [CheckUserAccount: dbfunction.go: 41]找不到用户！
+[2022-02-10 21:20:33][ERROR] [SaveTempUser: dbfunction.go: 28]Error 1062: Duplicate entry '' for key 'PRIMARY'
+[2022-02-10 21:24:13][ERROR] [SendEmail: emailcodedispose.go: 35]550 Mail content denied. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000726 [MA7AKGka6nB0sIYA6qdv7zR8GCHoYcP6SRZzjM5bfzW6eZ+ZD3JiI0ZjJg5TPEyrWA== IP: 222.89.24.215]
+[2022-02-10 21:24:13][ERROR] [Verify: acceptfunction.go: 44]发送失败！
+[2022-02-10 21:24:39][ERROR] [CheckUserAccount: dbfunction.go: 41]找不到用户！
+[2022-02-10 21:24:40][ERROR] [SaveTempUser: dbfunction.go: 28]Error 1062: Duplicate entry '' for key 'PRIMARY'
+[2022-02-10 21:24:43][ERROR] [CheckUserAccount: dbfunction.go: 41]找不到用户！
+[2022-02-10 21:24:43][ERROR] [SaveTempUser: dbfunction.go: 28]Error 1062: Duplicate entry '' for key 'PRIMARY'
+[2022-02-10 21:24:48][ERROR] [CheckUserAccount: dbfunction.go: 41]找不到用户！
+[2022-02-10 21:24:48][ERROR] [SaveTempUser: dbfunction.go: 28]Error 1062: Duplicate entry '' for key 'PRIMARY'
+[2022-02-10 21:24:52][ERROR] [CheckUserAccount: dbfunction.go: 41]找不到用户！
+[2022-02-10 21:24:52][ERROR] [SaveTempUser: dbfunction.go: 28]Error 1062: Duplicate entry '' for key 'PRIMARY'
+[2022-02-10 21:25:12][ERROR] [CheckUserAccount: dbfunction.go: 41]找不到用户！
+[2022-02-10 21:25:24][ERROR] [CheckUserAccount: dbfunction.go: 41]找不到用户！
+[2022-02-10 21:25:24][ERROR] [SaveTempUser: dbfunction.go: 28]Error 1062: Duplicate entry '' for key 'PRIMARY'
+[2022-02-10 21:29:49][ERROR] [CheckUserAccount: dbfunction.go: 41]找不到用户！
+[2022-02-10 21:29:49][ERROR] [SaveTempUser: dbfunction.go: 28]Error 1062: Duplicate entry '' for key 'PRIMARY'
+[2022-02-10 21:30:03][ERROR] [CheckUserAccount: dbfunction.go: 41]找不到用户！
+[2022-02-10 21:30:03][ERROR] [SaveTempUser: dbfunction.go: 28]Error 1062: Duplicate entry '' for key 'PRIMARY'
+[2022-02-10 21:30:18][ERROR] [CheckUserAccount: dbfunction.go: 41]找不到用户！
+[2022-02-10 21:30:18][ERROR] [SaveTempUser: dbfunction.go: 28]Error 1062: Duplicate entry '' for key 'PRIMARY'
+[2022-02-10 21:30:56][ERROR] [CheckUserAccount: dbfunction.go: 41]找不到用户！
+[2022-02-10 21:32:19][ERROR] [CheckUserAccount: dbfunction.go: 41]找不到用户！
+[2022-02-10 21:32:19][ERROR] [Register: acceptfunction.go: 61]失败！
+[2022-02-10 21:33:20][ERROR] [CheckUserAccount: dbfunction.go: 41]找不到用户！
+[2022-02-10 21:33:30][ERROR] [CheckUserAccount: dbfunction.go: 41]找不到用户！
+[2022-02-10 21:33:30][ERROR] [SaveTempUser: dbfunction.go: 28]Error 1062: Duplicate entry '' for key 'PRIMARY'
+[2022-02-10 21:34:47][ERROR] [CheckUserAccount: dbfunction.go: 43]找不到用户！
+[2022-02-10 21:34:48][ERROR] [SaveTempUser: dbfunction.go: 30]Error 1062: Duplicate entry '' for key 'PRIMARY'
+[2022-02-10 21:34:53][ERROR] [CheckUserAccount: dbfunction.go: 43]找不到用户！
+[2022-02-10 21:34:53][ERROR] [SaveTempUser: dbfunction.go: 30]Error 1062: Duplicate entry '' for key 'PRIMARY'
+[2022-02-10 21:35:15][ERROR] [CheckUserAccount: dbfunction.go: 43]找不到用户！
+[2022-02-10 21:36:26][ERROR] [CheckUserAccount: dbfunction.go: 43]找不到用户！
+[2022-02-10 21:36:32][ERROR] [CheckUserAccount: dbfunction.go: 43]找不到用户！
+[2022-02-10 21:36:32][ERROR] [SaveTempUser: dbfunction.go: 30]Error 1062: Duplicate entry '' for key 'PRIMARY'
+[2022-02-10 21:36:57][ERROR] [CheckUserAccount: dbfunction.go: 43]找不到用户！
+[2022-02-10 21:37:35][ERROR] [CheckUserAccount: dbfunction.go: 43]找不到用户！
+[2022-02-10 21:37:54][ERROR] [CheckUserAccount: dbfunction.go: 43]找不到用户！
+[2022-02-10 21:38:06][ERROR] [CheckUserAccount: dbfunction.go: 43]找不到用户！
+[2022-02-10 21:38:06][ERROR] [SaveTempUser: dbfunction.go: 30]Error 1062: Duplicate entry 'dsadsadd' for key 'PRIMARY'
+[2022-02-10 21:38:18][ERROR] [CheckUserAccount: dbfunction.go: 43]找不到用户！
+[2022-02-10 21:38:18][ERROR] [SaveTempUser: dbfunction.go: 30]Error 1062: Duplicate entry 'dsadsadd' for key 'PRIMARY'
+[2022-02-10 21:40:44][ERROR] [CheckUserAccount: dbfunction.go: 43]找不到用户！
+[2022-02-10 21:40:44][ERROR] [SaveTempUser: dbfunction.go: 30]Error 1062: Duplicate entry 'dsadsadd' for key 'PRIMARY'
+[2022-02-10 21:40:54][ERROR] [CheckUserAccount: dbfunction.go: 43]找不到用户！
+[2022-02-10 21:40:54][ERROR] [SaveTempUser: dbfunction.go: 30]Error 1062: Duplicate entry 'dsadsadd' for key 'PRIMARY'
+[2022-02-10 21:42:48][ERROR] [CheckUserAccount: dbfunction.go: 44]找不到用户！
+[2022-02-10 21:42:48][ERROR] [SaveTempUser: dbfunction.go: 30]Error 1062: Duplicate entry 'dsadsadd' for key 'PRIMARY'
+[2022-02-10 21:42:59][ERROR] [CheckUserAccount: dbfunction.go: 44]找不到用户！
+[2022-02-10 21:45:01][ERROR] [CheckUserAccount: dbfunction.go: 46]用户存在
+[2022-02-10 21:45:01][ERROR] [Register: acceptfunction.go: 60]注册失败！
+[2022-02-10 21:45:13][ERROR] [CheckUserAccount: dbfunction.go: 43]找不到用户！
+[2022-02-10 21:45:18][ERROR] [CheckUserAccount: dbfunction.go: 46]用户存在
+[2022-02-10 21:45:18][ERROR] [Register: acceptfunction.go: 60]注册失败！
+[2022-02-12 17:51:17][ERROR] [CheckUserAccount: dbfunction.go: 43]找不到用户！
+[2022-02-12 17:51:42][ERROR] [CheckUserAccount: dbfunction.go: 46]用户存在
+[2022-02-12 17:51:42][ERROR] [Register: acceptfunction.go: 166]注册失败!
+[2022-02-12 17:52:07][ERROR] [CheckUserAccount: dbfunction.go: 43]找不到用户！
+[2022-02-12 17:53:37][ERROR] [CheckAccountAndPassword: dbfunction.go: 61]找不到用户！
+[2022-02-12 17:53:37][ERROR] [CheckEmailAndPassword: dbfunction.go: 77]找不到用户！
+[2022-02-12 17:53:37][ERROR] [Login: acceptfunction.go: 184]登录失败!
+[2022-02-12 17:53:43][ERROR] [CheckAccountAndPassword: dbfunction.go: 61]找不到用户！
+[2022-02-12 17:53:43][ERROR] [CheckEmailAndPassword: dbfunction.go: 77]找不到用户！
+[2022-02-12 17:53:43][ERROR] [Login: acceptfunction.go: 184]登录失败!
+[2022-02-12 17:53:58][ERROR] [CheckAccountAndPassword: dbfunction.go: 61]找不到用户！
+[2022-02-12 17:53:58][ERROR] [CheckEmailAndPassword: dbfunction.go: 77]找不到用户！
+[2022-02-12 17:53:58][ERROR] [Login: acceptfunction.go: 184]登录失败!
+[2022-02-12 17:54:01][ERROR] [CheckAccountAndPassword: dbfunction.go: 61]找不到用户！
+[2022-02-12 17:54:01][ERROR] [CheckEmailAndPassword: dbfunction.go: 77]找不到用户！
+[2022-02-12 17:54:01][ERROR] [Login: acceptfunction.go: 184]登录失败!
+[2022-02-12 17:54:13][ERROR] [CheckAccountAndPassword: dbfunction.go: 61]找不到用户！
+[2022-02-12 17:54:13][ERROR] [CheckEmailAndPassword: dbfunction.go: 77]找不到用户！
+[2022-02-12 17:54:13][ERROR] [Login: acceptfunction.go: 184]登录失败!
+[2022-02-12 17:54:14][ERROR] [CheckAccountAndPassword: dbfunction.go: 61]找不到用户！
+[2022-02-12 17:54:14][ERROR] [CheckEmailAndPassword: dbfunction.go: 77]找不到用户！
+[2022-02-12 17:54:14][ERROR] [Login: acceptfunction.go: 184]登录失败!
+[2022-02-12 17:55:55][ERROR] [CheckAccountAndPassword: dbfunction.go: 61]找不到用户！
+[2022-02-12 17:55:55][ERROR] [CheckEmailAndPassword: dbfunction.go: 77]找不到用户！
+[2022-02-12 17:55:55][ERROR] [Login: acceptfunction.go: 184]登录失败!
+[2022-02-12 17:55:57][ERROR] [CheckAccountAndPassword: dbfunction.go: 61]找不到用户！
+[2022-02-12 17:55:57][ERROR] [CheckEmailAndPassword: dbfunction.go: 77]找不到用户！
+[2022-02-12 17:55:57][ERROR] [Login: acceptfunction.go: 184]登录失败!
+[2022-02-12 17:56:02][ERROR] [CheckAccountAndPassword: dbfunction.go: 61]找不到用户！
+[2022-02-12 17:56:02][ERROR] [CheckEmailAndPassword: dbfunction.go: 77]找不到用户！
+[2022-02-12 17:56:02][ERROR] [Login: acceptfunction.go: 184]登录失败!
+[2022-02-12 17:56:09][ERROR] [CheckAccountAndPassword: dbfunction.go: 61]找不到用户！
+[2022-02-12 17:56:10][ERROR] [CheckEmailAndPassword: dbfunction.go: 77]找不到用户！
+[2022-02-12 17:56:10][ERROR] [Login: acceptfunction.go: 184]登录失败!
+[2022-02-12 17:58:39][ERROR] [CheckAccountAndPassword: dbfunction.go: 63]找不到用户！
+[2022-02-12 17:58:39][ERROR] [CheckEmailAndPassword: dbfunction.go: 80]找不到用户！
+[2022-02-12 17:58:39][ERROR] [Login: acceptfunction.go: 184]登录失败!
+[2022-02-12 17:59:05][ERROR] [CheckAccountAndPassword: dbfunction.go: 63]找不到用户！
+[2022-02-12 17:59:05][ERROR] [CheckEmailAndPassword: dbfunction.go: 80]找不到用户！
+[2022-02-12 17:59:05][ERROR] [Login: acceptfunction.go: 184]登录失败!
+[2022-02-12 17:59:19][ERROR] [CheckAccountAndPassword: dbfunction.go: 63]找不到用户！
+[2022-02-12 17:59:19][ERROR] [CheckEmailAndPassword: dbfunction.go: 80]找不到用户！
+[2022-02-12 17:59:19][ERROR] [Login: acceptfunction.go: 184]登录失败!
+[2022-02-12 17:59:32][ERROR] [CheckAccountAndPassword: dbfunction.go: 63]找不到用户！
+[2022-02-12 17:59:32][ERROR] [CheckEmailAndPassword: dbfunction.go: 80]找不到用户！
+[2022-02-12 17:59:32][ERROR] [Login: acceptfunction.go: 184]登录失败!
+[2022-02-12 18:02:49][ERROR] [CheckAccountAndPassword: dbfunction.go: 63]找不到用户！
+[2022-02-12 18:02:50][ERROR] [CheckEmailAndPassword: dbfunction.go: 80]找不到用户！
+[2022-02-12 18:02:50][ERROR] [Login: acceptfunction.go: 184]登录失败!
+[2022-02-12 18:02:53][ERROR] [CheckAccountAndPassword: dbfunction.go: 63]找不到用户！
+[2022-02-12 18:02:53][ERROR] [CheckEmailAndPassword: dbfunction.go: 80]找不到用户！
+[2022-02-12 18:02:53][ERROR] [Login: acceptfunction.go: 184]登录失败!
+[2022-02-12 18:04:14][ERROR] [CheckAccountAndPassword: dbfunction.go: 63]找不到用户！
+[2022-02-12 18:04:14][ERROR] [CheckEmailAndPassword: dbfunction.go: 80]找不到用户！
+[2022-02-12 18:04:14][ERROR] [Login: acceptfunction.go: 184]登录失败!
+[2022-02-12 18:05:09][ERROR] [CheckAccountAndPassword: dbfunction.go: 63]找不到用户！
+[2022-02-12 18:05:09][ERROR] [CheckEmailAndPassword: dbfunction.go: 80]找不到用户！
+[2022-02-12 18:05:09][ERROR] [Login: acceptfunction.go: 184]登录失败!
+[2022-02-12 18:07:43][ERROR] [CheckAccountAndPassword: dbfunction.go: 63]找不到用户！
+[2022-02-12 18:07:43][ERROR] [CheckEmailAndPassword: dbfunction.go: 80]找不到用户！
+[2022-02-12 18:07:43][ERROR] [Login: acceptfunction.go: 184]登录失败!
+[2022-02-12 18:08:45][ERROR] [CheckAccountAndPassword: dbfunction.go: 63]找不到用户！
+[2022-02-12 18:08:45][ERROR] [CheckEmailAndPassword: dbfunction.go: 80]找不到用户！
+[2022-02-12 18:08:45][ERROR] [Login: acceptfunction.go: 184]登录失败!
+[2022-02-12 18:10:28][ERROR] [CheckAccountAndPassword: dbfunction.go: 63]找不到用户！
+[2022-02-12 18:10:28][ERROR] [CheckEmailAndPassword: dbfunction.go: 80]找不到用户！
+[2022-02-12 18:10:28][ERROR] [Login: acceptfunction.go: 185]登录失败!
+[2022-02-12 18:10:34][ERROR] [CheckAccountAndPassword: dbfunction.go: 63]找不到用户！
+[2022-02-12 18:10:35][ERROR] [CheckEmailAndPassword: dbfunction.go: 80]找不到用户！
+[2022-02-12 18:10:35][ERROR] [Login: acceptfunction.go: 185]登录失败!
+[2022-02-12 18:12:01][ERROR] [CheckEmailAndPassword: dbfunction.go: 80]找不到用户！
+[2022-02-12 18:12:18][ERROR] [CheckAccountAndPassword: dbfunction.go: 63]找不到用户！
+[2022-02-12 18:12:23][ERROR] [CheckAccountAndPassword: dbfunction.go: 63]找不到用户！
+[2022-02-12 18:12:23][ERROR] [CheckEmailAndPassword: dbfunction.go: 80]找不到用户！
+[2022-02-12 18:12:23][ERROR] [Login: acceptfunction.go: 185]登录失败!
+[2022-02-12 18:29:14][ERROR] [CheckAccountAndPassword: dbfunction.go: 63]找不到用户！
+[2022-02-12 18:29:14][ERROR] [CheckEmailAndPassword: dbfunction.go: 80]找不到用户！
+[2022-02-12 18:29:14][ERROR] [Login: acceptfunction.go: 78]登录失败!
+[2022-02-12 18:29:33][ERROR] [ForgetPassword: acceptfunction.go: 96]修改失败!
+[2022-02-12 18:44:26][ERROR] [ForgetPassword: acceptfunction.go: 96]修改失败!
+[2022-02-12 18:44:30][ERROR] [ForgetPassword: acceptfunction.go: 96]修改失败!
+[2022-02-12 18:45:03][ERROR] [ForgetPassword: acceptfunction.go: 96]修改失败!
+[2022-02-12 18:45:24][ERROR] [ForgetPassword: acceptfunction.go: 96]修改失败!
+[2022-02-12 18:45:36][ERROR] [ForgetPassword: acceptfunction.go: 96]修改失败!
+[2022-02-12 18:47:38][ERROR] [ForgetPassword: acceptfunction.go: 96]修改失败!
+[2022-02-12 18:48:44][ERROR] [ForgetPassword: acceptfunction.go: 96]修改失败!
+[2022-02-12 18:48:45][ERROR] [ForgetPassword: acceptfunction.go: 96]修改失败!
+[2022-02-12 18:55:18][ERROR] [CheckUserEmail: dbfunction.go: 59]找不到邮箱！
+[2022-02-12 18:55:22][ERROR] [CheckUserEmail: dbfunction.go: 62]邮箱存在
+[2022-02-12 18:55:22][ERROR] [ForgetPassword: acceptfunction.go: 96]修改失败!
+[2022-02-12 18:56:24][ERROR] [CheckUserEmail: dbfunction.go: 62]邮箱存在
+[2022-02-12 18:56:28][ERROR] [CheckUserEmail: dbfunction.go: 59]找不到邮箱！
+[2022-02-12 18:56:28][ERROR] [ForgetPassword: acceptfunction.go: 96]修改失败!
+[2022-02-12 20:58:38][ERROR] [AddLogoutAccount: dbfunction.go: 133]Error 1136: Column count doesn't match value count at row 1
+[2022-02-12 20:58:38][ERROR] [Logout: acceptfunction.go: 115]注销失败!
+[2022-02-12 21:00:27][ERROR] [AddLogoutAccount: dbfunction.go: 133]Error 1136: Column count doesn't match value count at row 1
+[2022-02-12 21:00:27][ERROR] [Logout: acceptfunction.go: 115]注销失败!
+[2022-02-12 21:00:36][ERROR] [AddLogoutAccount: dbfunction.go: 133]Error 1136: Column count doesn't match value count at row 1
+[2022-02-12 21:00:36][ERROR] [Logout: acceptfunction.go: 115]注销失败!
+[2022-02-12 21:07:50][ERROR] [AddLogoutAccount: dbfunction.go: 134]Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'updata user set state = 2, where email = ?' at line 1
+[2022-02-12 21:07:50][ERROR] [Logout: acceptfunction.go: 115]注销失败!
+[2022-02-12 21:07:57][ERROR] [AddLogoutAccount: dbfunction.go: 134]Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'updata user set state = 2, where email = ?' at line 1
+[2022-02-12 21:07:57][ERROR] [Logout: acceptfunction.go: 115]注销失败!
+[2022-02-12 21:08:44][ERROR] [AddLogoutAccount: dbfunction.go: 134]Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'updata user set state = '2', where email = ?' at line 1
+[2022-02-12 21:08:44][ERROR] [Logout: acceptfunction.go: 115]注销失败!
+[2022-02-12 21:09:24][ERROR] [AddLogoutAccount: dbfunction.go: 134]Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'updata user set state = '2', where email = ?' at line 1
+[2022-02-12 21:09:24][ERROR] [Logout: acceptfunction.go: 115]注销失败!
+[2022-02-12 21:17:02][ERROR] [CheckAccountAndPassword: dbfunction.go: 78]找不到用户！
+[2022-02-12 21:17:02][ERROR] [CheckEmailAndPassword: dbfunction.go: 95]找不到用户！
+[2022-02-12 21:17:02][ERROR] [Login: acceptfunction.go: 78]登录失败!
+[2022-02-12 21:17:15][ERROR] [CheckUserEmail: dbfunction.go: 62]邮箱存在
+[2022-02-12 21:17:20][ERROR] [CheckAccountAndPassword: dbfunction.go: 78]找不到用户！
+[2022-02-12 21:17:20][ERROR] [CheckEmailAndPassword: dbfunction.go: 95]找不到用户！
+[2022-02-12 21:17:20][ERROR] [Login: acceptfunction.go: 78]登录失败!
+[2022-02-12 21:17:50][ERROR] [CheckUserEmail: dbfunction.go: 62]邮箱存在
+[2022-02-12 21:17:58][ERROR] [CheckAccountAndPassword: dbfunction.go: 78]找不到用户！
+[2022-02-12 21:18:00][ERROR] [CheckAccountAndPassword: dbfunction.go: 78]找不到用户！
+[2022-02-12 21:18:01][ERROR] [CheckEmailAndPassword: dbfunction.go: 95]找不到用户！
+[2022-02-12 21:18:01][ERROR] [Login: acceptfunction.go: 78]登录失败!
+[2022-02-12 21:53:15][ERROR] [CheckUser: dbfunction.go: 155]找不到用户！
+[2022-02-12 22:18:27][ERROR] [CheckUserEmail: dbfunction.go: 59]找不到邮箱！
+[2022-02-12 22:19:01][ERROR] [CheckUserEmail: dbfunction.go: 62]邮箱存在
+[2022-02-12 22:19:01][ERROR] [RedactUseremail: acceptfunction.go: 164]修改失败!
+[2022-02-13 18:50:07][ERROR] [SeekAlldairy: dbfunction.go: 206]Error 1146: Table 'datadairy.diary' doesn't exist
+[2022-02-13 18:50:11][ERROR] [SeekAlldairy: dbfunction.go: 206]Error 1146: Table 'datadairy.diary' doesn't exist
+[2022-02-13 18:50:12][ERROR] [SeekAlldairy: dbfunction.go: 206]Error 1146: Table 'datadairy.diary' doesn't exist
+[2022-02-13 22:59:58][ERROR] [SeekUserdiaryid: dbfunction.go: 265]找不到日记
+[2022-02-13 22:59:58][ERROR] [Modifydairy: acceptfunction.go: 215]修改失败！
+[2022-02-13 23:10:55][ERROR] [SeekUserdiaryid: dbfunction.go: 265]找不到日记
+[2022-02-13 23:10:55][ERROR] [Deletedairy: acceptfunction.go: 233]添加失败！
+[2022-02-13 23:10:59][ERROR] [SeekUserdiaryid: dbfunction.go: 265]找不到日记
+[2022-02-13 23:10:59][ERROR] [Deletedairy: acceptfunction.go: 233]添加失败！
+[2022-02-13 23:13:28][ERROR] [SeekUserdiaryid: dbfunction.go: 265]找不到日记
+[2022-02-13 23:13:28][ERROR] [Deletedairy: acceptfunction.go: 233]删除失败！
+[2022-02-13 23:14:05][ERROR] [SeekUserdiaryid: dbfunction.go: 265]找不到日记
+[2022-02-13 23:14:05][ERROR] [Deletedairy: acceptfunction.go: 233]删除失败！
+[2022-02-13 23:14:11][ERROR] [SeekUserdiaryid: dbfunction.go: 265]找不到日记
+[2022-02-13 23:14:11][ERROR] [Deletedairy: acceptfunction.go: 233]删除失败！
+[2022-02-13 23:15:55][ERROR] [SeekUserdiaryid: dbfunction.go: 265]找不到日记
+[2022-02-13 23:15:55][ERROR] [Deletedairy: acceptfunction.go: 233]删除失败！
+[2022-02-13 23:23:04][ERROR] [AddUserdiary: dbfunction.go: 248]Error 1366: Incorrect integer value: '' for column 'performance' at row 1
+[2022-02-13 23:23:04][ERROR] [Adddairy: acceptfunction.go: 196]添加失败！
+[2022-02-13 23:23:05][ERROR] [AddUserdiary: dbfunction.go: 248]Error 1366: Incorrect integer value: '' for column 'performance' at row 1
+[2022-02-13 23:23:05][ERROR] [Adddairy: acceptfunction.go: 196]添加失败！
+[2022-02-13 23:24:29][ERROR] [AddUserdiary: dbfunction.go: 248]Error 1366: Incorrect integer value: '' for column 'performance' at row 1
+[2022-02-13 23:24:29][ERROR] [Adddairy: acceptfunction.go: 196]添加失败！
+[2022-02-13 23:24:32][ERROR] [AddUserdiary: dbfunction.go: 248]Error 1366: Incorrect integer value: '' for column 'performance' at row 1
+[2022-02-13 23:24:32][ERROR] [Adddairy: acceptfunction.go: 196]添加失败！
+[2022-02-13 23:25:04][ERROR] [AddUserdiary: dbfunction.go: 248]Error 1366: Incorrect integer value: '' for column 'performance' at row 1
+[2022-02-13 23:25:04][ERROR] [Adddairy: acceptfunction.go: 196]添加失败！
+[2022-02-13 23:25:27][ERROR] [AddUserdiary: dbfunction.go: 248]Error 1366: Incorrect integer value: '' for column 'performance' at row 1
+[2022-02-13 23:25:27][ERROR] [Adddairy: acceptfunction.go: 196]添加失败！
+[2022-02-13 23:26:24][ERROR] [AddUserdiary: dbfunction.go: 248]Error 1366: Incorrect integer value: '' for column 'performance' at row 1
+[2022-02-13 23:26:24][ERROR] [Adddairy: acceptfunction.go: 196]添加失败！
+[2022-02-13 23:27:53][ERROR] [AddUserdiary: dbfunction.go: 248]Error 1366: Incorrect integer value: '是否完成' for column 'performance' at row 1
+[2022-02-13 23:27:53][ERROR] [Adddairy: acceptfunction.go: 196]添加失败！
+[2022-02-13 23:28:32][ERROR] [AddUserdiary: dbfunction.go: 248]Error 1366: Incorrect integer value: '是否完成' for column 'performance' at row 1
+[2022-02-13 23:28:32][ERROR] [Adddairy: acceptfunction.go: 196]添加失败！
+[2022-02-14 17:49:03][ERROR] [CheckUserAccount: dbfunction.go: 49]用户存在
+[2022-02-14 17:49:03][ERROR] [BackRegister: acceptfunction.go: 269]注册失败!
+[2022-02-14 17:51:06][ERROR] [CheckAdminAccount: dbfunction.go: 350]找不到管理员！
+[2022-02-14 17:51:06][ERROR] [CheckAdminEmail: dbfunction.go: 365]找不到管理员！
+[2022-02-14 17:51:16][ERROR] [CheckAdminAccount: dbfunction.go: 353]管理员存在
+[2022-02-14 17:51:16][ERROR] [CheckAdminEmail: dbfunction.go: 368]管理员存在
+[2022-02-14 17:51:16][ERROR] [BackRegister: acceptfunction.go: 269]注册失败!
+[2022-02-14 17:51:19][ERROR] [CheckAdminAccount: dbfunction.go: 353]管理员存在
+[2022-02-14 17:51:19][ERROR] [CheckAdminEmail: dbfunction.go: 365]找不到管理员！
+[2022-02-14 17:51:34][ERROR] [CheckAdminAccount: dbfunction.go: 350]找不到管理员！
+[2022-02-14 17:51:34][ERROR] [CheckAdminEmail: dbfunction.go: 368]管理员存在
+[2022-02-14 17:52:06][ERROR] [CheckAdminAccount: dbfunction.go: 350]找不到管理员！
+[2022-02-14 17:52:06][ERROR] [CheckAdminEmail: dbfunction.go: 368]管理员存在
+[2022-02-14 17:52:06][ERROR] [BackRegister: acceptfunction.go: 269]注册失败!
+[2022-02-14 17:52:13][ERROR] [CheckAdminAccount: dbfunction.go: 353]管理员存在
+[2022-02-14 17:52:13][ERROR] [CheckAdminEmail: dbfunction.go: 365]找不到管理员！
+[2022-02-14 17:52:13][ERROR] [BackRegister: acceptfunction.go: 269]注册失败!
+[2022-02-14 18:00:24][ERROR] [CheckAdminEmailAndPassword: dbfunction.go: 397]找不到用户！
+[2022-02-14 18:00:25][ERROR] [BackLogin: acceptfunction.go: 286]登录失败!
+[2022-02-14 18:00:30][ERROR] [CheckAdminEmailAndPassword: dbfunction.go: 397]找不到用户！
+[2022-02-14 18:00:30][ERROR] [BackLogin: acceptfunction.go: 286]登录失败!
+[2022-02-14 18:01:41][ERROR] [CheckAdminEmailAndPassword: dbfunction.go: 397]找不到管理员！
+[2022-02-14 18:01:41][ERROR] [BackLogin: acceptfunction.go: 286]登录失败!
+[2022-02-14 18:14:05][ERROR] [CheckUserAccount: dbfunction.go: 50]找不到用户！
+[2022-02-14 18:14:26][ERROR] [CheckUserAccount: dbfunction.go: 50]找不到用户！
+[2022-02-14 19:36:26][ERROR] [Passuser: dbfunction.go: 452]Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'tempuser where account = ?' at line 1
+[2022-02-14 19:36:26][ERROR] [Passtempuser: acceptfunction.go: 320]审核失败!
+[2022-02-14 19:37:14][ERROR] [Passuser: dbfunction.go: 452]Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 1) select account,password,email form tempuser where account = ?' at line 1
+[2022-02-14 19:37:14][ERROR] [Passtempuser: acceptfunction.go: 320]审核失败!
+[2022-02-14 20:27:13][ERROR] [CheckUserAccount: dbfunction.go: 50]找不到用户！
+[2022-02-14 20:27:13][ERROR] [Register: acceptfunction.go: 60]注册失败!
+[2022-02-14 20:27:34][ERROR] [CheckUserAccount: dbfunction.go: 50]找不到用户！
+[2022-02-14 20:27:34][ERROR] [CheckUser: dbfunction.go: 162]找不到用户！
+[2022-02-14 22:12:41][ERROR] [Passlogoutuser: dbfunction.go: 524]Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'delete from user where account = ?,delete from dairy where account = ?' at line 1
+[2022-02-14 22:12:57][ERROR] [Passlogoutuser: acceptfunction.go: 372]注销失败!
+[2022-02-14 22:13:46][ERROR] [Passlogoutuser: dbfunction.go: 524]Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'delete from user where account = ?,delete from dairy where account = ?' at line 1
+[2022-02-14 22:13:47][ERROR] [Passlogoutuser: acceptfunction.go: 372]注销失败!
+[2022-02-14 22:18:39][ERROR] [Passlogoutuser: dbfunction.go: 524]Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where account = ?' at line 1
+[2022-02-14 22:18:40][ERROR] [Passlogoutuser: acceptfunction.go: 372]注销失败!
+[2022-02-14 22:19:48][ERROR] [Passlogoutuser: dbfunction.go: 524]Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where logoutuser.account= user.account = dairy.account = ?' at line 1
+[2022-02-14 22:19:49][ERROR] [Passlogoutuser: acceptfunction.go: 372]注销失败!
+[2022-02-16 23:29:38][ERROR] [AdminSendEmail: emailcodedispose.go: 57]501 Bad address syntax. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000730
+[2022-02-16 23:37:18][ERROR] [AdminSendEmail: emailcodedispose.go: 57]501 Bad address syntax. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000730
+[2022-02-22 15:54:57][ERROR] [CheckUserAccount: dbfunction.go: 80]找不到用户！
+[2022-02-22 15:54:57][ERROR] [CheckUser: dbfunction.go: 191]找不到用户！
+[2022-02-22 15:55:31][ERROR] [AdminSendEmail: emailcodedispose.go: 57]501 Bad address syntax. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000730
+[2022-02-22 15:55:49][ERROR] [AdminSendEmail: emailcodedispose.go: 57]501 Bad address syntax. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000730
+[2022-02-22 15:58:02][ERROR] [AdminSendEmail: emailcodedispose.go: 57]501 Bad address syntax. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000730
+[2022-02-22 15:58:42][ERROR] [CheckUserAccount: dbfunction.go: 80]找不到用户！
+[2022-02-22 15:58:42][ERROR] [CheckUser: dbfunction.go: 191]找不到用户！
+[2022-02-22 15:58:47][ERROR] [CheckUserAccount: dbfunction.go: 80]找不到用户！
+[2022-02-22 15:58:47][ERROR] [CheckUser: dbfunction.go: 191]找不到用户！
+[2022-02-22 15:59:01][ERROR] [AdminSendEmail: emailcodedispose.go: 57]501 Bad address syntax. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000730
+[2022-02-22 15:59:08][ERROR] [AdminSendEmail: emailcodedispose.go: 57]501 Bad address syntax. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000730
+[2022-02-22 15:59:35][ERROR] [CheckAccountAndPassword: dbfunction.go: 115]找不到用户！
+[2022-02-22 15:59:35][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 15:59:35][ERROR] [SelectUserAccount: dbfunction.go: 46]找不到用户！
+[2022-02-22 15:59:35][ERROR] [Login: acceptfunction.go: 83]登录失败!
+[2022-02-22 16:00:25][ERROR] [CheckAccountAndPassword: dbfunction.go: 115]找不到用户！
+[2022-02-22 16:00:25][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:00:25][ERROR] [Login: acceptfunction.go: 84]登录失败!
+[2022-02-22 16:00:29][ERROR] [CheckAccountAndPassword: dbfunction.go: 115]找不到用户！
+[2022-02-22 16:00:29][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:00:29][ERROR] [Login: acceptfunction.go: 84]登录失败!
+[2022-02-22 16:00:38][ERROR] [CheckAccountAndPassword: dbfunction.go: 115]找不到用户！
+[2022-02-22 16:00:38][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:00:38][ERROR] [Login: acceptfunction.go: 84]登录失败!
+[2022-02-22 16:00:42][ERROR] [CheckAccountAndPassword: dbfunction.go: 115]找不到用户！
+[2022-02-22 16:00:42][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:00:42][ERROR] [Login: acceptfunction.go: 84]登录失败!
+[2022-02-22 16:02:09][ERROR] [CheckAccountAndPassword: dbfunction.go: 115]找不到用户！
+[2022-02-22 16:02:09][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:02:09][ERROR] [Login: acceptfunction.go: 84]登录失败!
+[2022-02-22 16:03:38][ERROR] [CheckAccountAndPassword: dbfunction.go: 115]找不到用户！
+[2022-02-22 16:03:38][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:03:38][ERROR] [Login: acceptfunction.go: 84]登录失败!
+[2022-02-22 16:10:19][ERROR] [CheckAccountAndPassword: dbfunction.go: 115]找不到用户！
+[2022-02-22 16:10:19][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:10:19][ERROR] [Login: acceptfunction.go: 84]登录失败!
+[2022-02-22 16:14:43][ERROR] [CheckAccountAndPassword: dbfunction.go: 115]找不到用户！
+[2022-02-22 16:14:43][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:14:43][ERROR] [Login: acceptfunction.go: 84]登录失败!
+[2022-02-22 16:14:58][ERROR] [CheckAccountAndPassword: dbfunction.go: 115]找不到用户！
+[2022-02-22 16:14:58][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:14:58][ERROR] [Login: acceptfunction.go: 84]登录失败!
+[2022-02-22 16:15:02][ERROR] [CheckAccountAndPassword: dbfunction.go: 115]找不到用户！
+[2022-02-22 16:15:02][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:15:02][ERROR] [Login: acceptfunction.go: 84]登录失败!
+[2022-02-22 16:15:56][ERROR] [CheckAccountAndPassword: dbfunction.go: 115]找不到用户！
+[2022-02-22 16:15:56][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:15:56][ERROR] [Login: acceptfunction.go: 85]登录失败!
+[2022-02-22 16:16:42][ERROR] [CheckAccountAndPassword: dbfunction.go: 115]找不到用户！
+[2022-02-22 16:16:42][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:16:42][ERROR] [Login: acceptfunction.go: 85]登录失败!
+[2022-02-22 16:19:19][ERROR] [CheckUserAccount: dbfunction.go: 80]找不到用户！
+[2022-02-22 16:19:19][ERROR] [CheckUser: dbfunction.go: 191]找不到用户！
+[2022-02-22 16:19:37][ERROR] [CheckAccountAndPassword: dbfunction.go: 115]找不到用户！
+[2022-02-22 16:19:37][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:19:37][ERROR] [Login: acceptfunction.go: 86]登录失败!
+[2022-02-22 16:19:55][ERROR] [CheckAccountAndPassword: dbfunction.go: 115]找不到用户！
+[2022-02-22 16:19:55][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:19:55][ERROR] [Login: acceptfunction.go: 86]登录失败!
+[2022-02-22 16:19:59][ERROR] [CheckAccountAndPassword: dbfunction.go: 115]找不到用户！
+[2022-02-22 16:19:59][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:19:59][ERROR] [Login: acceptfunction.go: 86]登录失败!
+[2022-02-22 16:20:09][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:21:36][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:22:54][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:23:54][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:26:41][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:29:28][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:29:35][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:30:23][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:30:52][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:32:49][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:34:39][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:40:34][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:40:41][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:43:56][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:44:54][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:45:40][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:45:47][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:45:49][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:46:35][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:49:59][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:50:05][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:50:30][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:57:57][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:58:11][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:58:18][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:58:28][ERROR] [CheckEmailAndPassword: dbfunction.go: 132]找不到用户！
+[2022-02-22 16:58:40][ERROR] [CheckAccountAndPassword: dbfunction.go: 115]找不到用户！
+[2022-02-22 16:58:40][ERROR] [SelectUserAccount: dbfunction.go: 49]用户存在
+[2022-02-22 17:17:20][ERROR] [SelectUserSessionId: dbfunction.go: 802]用户存在
+[2022-02-22 17:17:42][ERROR] [SelectUserSessionId: dbfunction.go: 802]用户存在
+[2022-02-22 17:18:19][ERROR] [CheckAccountAndPassword: dbfunction.go: 115]找不到用户！
+[2022-02-22 17:18:19][ERROR] [SelectUserAccount: dbfunction.go: 49]用户存在
+[2022-02-22 17:18:26][ERROR] [SelectUserSessionId: dbfunction.go: 802]用户存在
+[2022-02-22 17:18:30][ERROR] [CheckAccountAndPassword: dbfunction.go: 115]找不到用户！
+[2022-02-22 17:18:31][ERROR] [SelectUserAccount: dbfunction.go: 49]用户存在
+[2022-02-22 17:18:32][ERROR] [SelectUserSessionId: dbfunction.go: 802]用户存在
+[2022-02-22 17:18:40][ERROR] [SelectUserSessionId: dbfunction.go: 802]用户存在
+[2022-02-22 17:18:47][ERROR] [CheckAccountAndPassword: dbfunction.go: 115]找不到用户！
+[2022-02-22 17:18:47][ERROR] [SelectUserAccount: dbfunction.go: 49]用户存在
+[2022-02-22 17:18:48][ERROR] [SelectUserSessionId: dbfunction.go: 802]用户存在
+[2022-02-26 19:51:00][ERROR] [CheckEmailAndPassword: dbfunction.go: 130]找不到用户！
+[2022-02-26 19:54:14][ERROR] [CheckEmailAndPassword: dbfunction.go: 130]找不到用户！
+[2022-02-26 20:05:04][ERROR] [CheckEmailAndPassword: dbfunction.go: 130]找不到用户！
+[2022-02-26 20:05:06][ERROR] [CheckEmailAndPassword: dbfunction.go: 130]找不到用户！
+[2022-02-26 20:05:14][ERROR] [CheckAccountAndPassword: dbfunction.go: 113]找不到用户！
+[2022-02-26 20:05:15][ERROR] [CheckEmailAndPassword: dbfunction.go: 130]找不到用户！
+[2022-02-26 20:05:15][ERROR] [Login: acceptfunction.go: 105]登录失败!
+[2022-02-26 20:05:25][ERROR] [CheckEmailAndPassword: dbfunction.go: 130]找不到用户！
+[2022-02-26 20:06:11][ERROR] [CheckEmailAndPassword: dbfunction.go: 130]找不到用户！
+[2022-02-26 20:06:46][ERROR] [CheckEmailAndPassword: dbfunction.go: 130]找不到用户！
+[2022-02-26 20:07:47][ERROR] [CheckEmailAndPassword: dbfunction.go: 130]找不到用户！
+[2022-02-26 20:07:48][ERROR] [CheckEmailAndPassword: dbfunction.go: 130]找不到用户！
+[2022-02-26 20:07:50][ERROR] [CheckEmailAndPassword: dbfunction.go: 130]找不到用户！
+[2022-02-26 20:07:51][ERROR] [CheckEmailAndPassword: dbfunction.go: 130]找不到用户！
+[2022-02-26 20:07:52][ERROR] [CheckEmailAndPassword: dbfunction.go: 130]找不到用户！
+[2022-02-26 20:08:02][ERROR] [CheckEmailAndPassword: dbfunction.go: 130]找不到用户！
+[2022-02-26 20:08:07][ERROR] [CheckEmailAndPassword: dbfunction.go: 130]找不到用户！
+[2022-02-26 20:09:12][ERROR] [CheckEmailAndPassword: dbfunction.go: 130]找不到用户！
+[2022-02-26 20:09:13][ERROR] [CheckEmailAndPassword: dbfunction.go: 130]找不到用户！
+[2022-02-26 20:10:56][ERROR] [CheckEmailAndPassword: dbfunction.go: 130]找不到用户！
+[2022-02-26 20:10:59][ERROR] [CheckEmailAndPassword: dbfunction.go: 130]找不到用户！
+[2022-02-26 20:11:00][ERROR] [CheckEmailAndPassword: dbfunction.go: 130]找不到用户！
+[2022-02-26 20:11:01][ERROR] [CheckEmailAndPassword: dbfunction.go: 130]找不到用户！
+[2022-02-26 20:26:36][ERROR] [CheckEmailAndPassword: dbfunction.go: 130]找不到用户！
+[2022-02-26 20:26:37][ERROR] [CheckEmailAndPassword: dbfunction.go: 130]找不到用户！
+[2022-02-26 20:26:38][ERROR] [CheckEmailAndPassword: dbfunction.go: 130]找不到用户！
+[2022-02-26 20:26:39][ERROR] [CheckEmailAndPassword: dbfunction.go: 130]找不到用户！
+[2022-02-26 20:26:40][ERROR] [CheckEmailAndPassword: dbfunction.go: 130]找不到用户！
+[2022-02-26 20:26:41][ERROR] [CheckEmailAndPassword: dbfunction.go: 130]找不到用户！
+[2022-02-26 21:07:03][ERROR] [(*Conf): utils.go: 21]open DAL/conf.yaml: The system cannot find the file specified.
+[2022-02-26 21:07:11][ERROR] [SeekAlldairy: dbfunction.go: 245]Error 1045: Access denied for user 'root'@'localhost' (using password: NO)
+[2022-02-26 21:08:32][ERROR] [(*Conf): utils.go: 21]read C:/Users/goodman/Desktop/jsb/conf: The handle is invalid.
+[2022-02-26 21:08:39][ERROR] [SeekAlldairy: dbfunction.go: 245]Error 1045: Access denied for user 'root'@'localhost' (using password: NO)
+[2022-02-26 21:08:41][ERROR] [SeekAlldairy: dbfunction.go: 245]Error 1045: Access denied for user 'root'@'localhost' (using password: NO)
+[2022-02-27 18:25:27][ERROR] [CheckEmailAndPassword: dbfunction.go: 117]找不到用户！
+[2022-02-27 18:26:07][ERROR] [CheckAccountAndPassword: dbfunction.go: 100]找不到用户！
+[2022-02-27 18:26:07][ERROR] [CheckEmailAndPassword: dbfunction.go: 117]找不到用户！
+[2022-02-27 18:26:07][ERROR] [Login: acceptfunction.go: 102]登录失败!
+[2022-02-27 18:26:56][ERROR] [CheckAccountAndPassword: dbfunction.go: 100]找不到用户！
+[2022-02-27 18:26:56][ERROR] [CheckEmailAndPassword: dbfunction.go: 117]找不到用户！
+[2022-02-27 18:26:56][ERROR] [Login: acceptfunction.go: 102]登录失败!
+[2022-02-27 18:27:01][ERROR] [CheckAccountAndPassword: dbfunction.go: 100]找不到用户！
+[2022-02-27 18:27:01][ERROR] [CheckEmailAndPassword: dbfunction.go: 117]找不到用户！
+[2022-02-27 18:27:01][ERROR] [Login: acceptfunction.go: 102]登录失败!
+[2022-02-27 18:27:07][ERROR] [CheckAccountAndPassword: dbfunction.go: 100]找不到用户！
+[2022-02-27 18:27:07][ERROR] [SelectUserAccount: dbfunction.go: 34]用户存在
+[2022-02-27 18:27:14][ERROR] [CheckAccountAndPassword: dbfunction.go: 100]找不到用户！
+[2022-02-27 18:27:14][ERROR] [CheckEmailAndPassword: dbfunction.go: 117]找不到用户！
+[2022-02-27 18:27:14][ERROR] [Login: acceptfunction.go: 102]登录失败!
+[2022-02-27 18:33:09][ERROR] [CheckAccountAndPassword: dbfunction.go: 100]找不到用户！
+[2022-02-27 18:33:09][ERROR] [SelectUserAccount: dbfunction.go: 34]用户存在
+[2022-02-27 20:09:34][ERROR] [CheckAccountAndPassword: dbfunction.go: 100]找不到用户！
+[2022-02-27 20:09:34][ERROR] [SelectUserAccount: dbfunction.go: 34]用户存在
+[2022-02-27 20:09:38][ERROR] [CheckAccountAndPassword: dbfunction.go: 100]找不到用户！
+[2022-02-27 20:09:38][ERROR] [SelectUserAccount: dbfunction.go: 34]用户存在
+[2022-02-28 13:29:15][ERROR] [ChecktemperUserEmail: dbfunction.go: 88]邮箱存在
+[2022-02-28 13:29:15][ERROR] [Sendemailcode: acceptfunction.go: 73]发送失败！
+[2022-02-28 13:29:24][ERROR] [ChecktemperUserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-02-28 13:29:24][ERROR] [CheckUserEmail: dbfunction.go: 104]邮箱存在
+[2022-02-28 13:29:24][ERROR] [Sendemailcode: acceptfunction.go: 73]发送失败！
+[2022-02-28 13:29:27][ERROR] [ChecktemperUserEmail: dbfunction.go: 88]邮箱存在
+[2022-02-28 13:29:27][ERROR] [Sendemailcode: acceptfunction.go: 73]发送失败！
+[2022-02-28 13:30:17][ERROR] [ChecktemperUserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-02-28 13:30:17][ERROR] [CheckUserEmail: dbfunction.go: 101]找不到邮箱！
+[2022-02-28 13:31:32][ERROR] [ChecktemperUserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-02-28 13:31:32][ERROR] [CheckUserEmail: dbfunction.go: 101]找不到邮箱！
+[2022-02-28 13:57:57][ERROR] [ChecktemperUserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-02-28 13:57:57][ERROR] [CheckUserEmail: dbfunction.go: 101]找不到邮箱！
+[2022-02-28 13:58:34][ERROR] [CheckUserAccount: dbfunction.go: 65]找不到用户！
+[2022-02-28 13:58:34][ERROR] [CheckUser: dbfunction.go: 196]找不到用户！
+[2022-02-28 13:59:33][ERROR] [ChecktemperUserEmail: dbfunction.go: 88]邮箱存在
+[2022-02-28 13:59:33][ERROR] [Sendemailcode: acceptfunction.go: 73]发送失败！
+[2022-02-28 13:59:46][ERROR] [ChecktemperUserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-02-28 13:59:46][ERROR] [CheckUserEmail: dbfunction.go: 101]找不到邮箱！
+[2022-02-28 13:59:53][ERROR] [Register: acceptfunction.go: 90]注册失败!
+[2022-02-28 14:00:03][ERROR] [CheckUserAccount: dbfunction.go: 65]找不到用户！
+[2022-02-28 14:00:03][ERROR] [Register: acceptfunction.go: 90]注册失败!
+[2022-02-28 14:00:22][ERROR] [CheckUserAccount: dbfunction.go: 68]用户存在
+[2022-02-28 14:00:22][ERROR] [CheckUser: dbfunction.go: 196]找不到用户！
+[2022-02-28 14:00:22][ERROR] [SaveTempUser: dbfunction.go: 52]Error 1062: Duplicate entry '111' for key 'PRIMARY'
+[2022-02-28 14:01:16][ERROR] [ChecktemperUserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-02-28 14:01:16][ERROR] [CheckUserEmail: dbfunction.go: 101]找不到邮箱！
+[2022-02-28 14:01:28][ERROR] [Register: acceptfunction.go: 90]注册失败!
+[2022-02-28 14:01:38][ERROR] [CheckUserAccount: dbfunction.go: 68]用户存在
+[2022-02-28 14:01:38][ERROR] [Register: acceptfunction.go: 90]注册失败!
+[2022-02-28 14:01:48][ERROR] [CheckUserAccount: dbfunction.go: 68]用户存在
+[2022-02-28 14:01:48][ERROR] [Register: acceptfunction.go: 90]注册失败!
+[2022-02-28 14:02:00][ERROR] [CheckUserAccount: dbfunction.go: 65]找不到用户！
+[2022-02-28 14:02:00][ERROR] [Register: acceptfunction.go: 90]注册失败!
+[2022-02-28 14:02:06][ERROR] [CheckUserAccount: dbfunction.go: 65]找不到用户！
+[2022-02-28 14:02:06][ERROR] [CheckUser: dbfunction.go: 196]找不到用户！
+[2022-02-28 19:24:56][ERROR] [ChecktemperUserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-02-28 19:24:56][ERROR] [CheckUserEmail: dbfunction.go: 101]找不到邮箱！
+[2022-02-28 19:25:14][ERROR] [CheckUserAccount: dbfunction.go: 65]找不到用户！
+[2022-02-28 19:25:14][ERROR] [CheckUser: dbfunction.go: 196]找不到用户！
+[2022-02-28 19:25:28][ERROR] [CheckUserAccount: dbfunction.go: 68]用户存在
+[2022-02-28 19:25:28][ERROR] [Register: acceptfunction.go: 90]注册失败!
+[2022-02-28 19:25:40][ERROR] [CheckUserAccount: dbfunction.go: 65]找不到用户！
+[2022-02-28 19:25:40][ERROR] [CheckUser: dbfunction.go: 196]找不到用户！
+[2022-02-28 19:27:46][ERROR] [Register: acceptfunction.go: 90]注册失败!
+[2022-02-28 19:27:50][ERROR] [ChecktemperUserEmail: dbfunction.go: 88]邮箱存在
+[2022-02-28 19:27:50][ERROR] [Sendemailcode: acceptfunction.go: 73]发送失败！
+[2022-02-28 19:28:00][ERROR] [Register: acceptfunction.go: 90]注册失败!
+[2022-02-28 19:28:03][ERROR] [ChecktemperUserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-02-28 19:28:03][ERROR] [CheckUserEmail: dbfunction.go: 101]找不到邮箱！
+[2022-02-28 19:28:12][ERROR] [CheckUserAccount: dbfunction.go: 65]找不到用户！
+[2022-02-28 19:28:12][ERROR] [CheckUser: dbfunction.go: 196]找不到用户！
+[2022-02-28 19:28:13][ERROR] [ChecktemperUserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-02-28 19:28:13][ERROR] [CheckUserEmail: dbfunction.go: 101]找不到邮箱！
+[2022-02-28 19:28:19][ERROR] [CheckUserAccount: dbfunction.go: 68]用户存在
+[2022-02-28 19:28:19][ERROR] [Register: acceptfunction.go: 90]注册失败!
+[2022-02-28 19:28:25][ERROR] [CheckUserAccount: dbfunction.go: 65]找不到用户！
+[2022-02-28 19:28:25][ERROR] [CheckUser: dbfunction.go: 196]找不到用户！
+[2022-02-28 19:28:25][ERROR] [ChecktemperUserEmail: dbfunction.go: 88]邮箱存在
+[2022-02-28 19:28:25][ERROR] [Register: acceptfunction.go: 90]注册失败!
+[2022-02-28 19:50:41][ERROR] [ChecktemperUserEmail: dbfunction.go: 88]邮箱存在
+[2022-02-28 19:50:41][ERROR] [Sendemailcode: acceptfunction.go: 73]发送失败！
+[2022-02-28 19:58:36][ERROR] [CheckUserEmail: dbfunction.go: 101]找不到邮箱！
+[2022-02-28 19:58:36][ERROR] [Senduseremailcode: acceptfunction.go: 92]发送失败！
+[2022-02-28 19:58:53][ERROR] [CheckUserEmail: dbfunction.go: 101]找不到邮箱！
+[2022-02-28 19:58:53][ERROR] [Senduseremailcode: acceptfunction.go: 92]发送失败！
+[2022-02-28 19:58:54][ERROR] [CheckUserEmail: dbfunction.go: 101]找不到邮箱！
+[2022-02-28 19:58:54][ERROR] [Senduseremailcode: acceptfunction.go: 92]发送失败！
+[2022-02-28 19:59:51][ERROR] [CheckUserEmail: dbfunction.go: 104]邮箱存在
+[2022-02-28 19:59:51][ERROR] [SendEmail: emailcodedispose.go: 34]501 Bad address syntax. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000730
+[2022-02-28 19:59:51][ERROR] [Senduseremailcode: acceptfunction.go: 92]发送失败！
+[2022-02-28 20:00:20][ERROR] [CheckUserEmail: dbfunction.go: 104]邮箱存在
+[2022-02-28 20:00:20][ERROR] [Senduseremailcode: acceptfunction.go: 92]发送失败！
+[2022-02-28 20:00:44][ERROR] [CheckUserEmail: dbfunction.go: 104]邮箱存在
+[2022-02-28 20:00:45][ERROR] [SendEmail: emailcodedispose.go: 34]501 Bad address syntax. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000730
+[2022-02-28 20:00:45][ERROR] [Senduseremailcode: acceptfunction.go: 92]发送失败！
+[2022-02-28 20:00:57][ERROR] [CheckUserEmail: dbfunction.go: 101]找不到邮箱！
+[2022-02-28 20:00:57][ERROR] [Senduseremailcode: acceptfunction.go: 92]发送失败！
+[2022-02-28 20:00:59][ERROR] [CheckUserEmail: dbfunction.go: 101]找不到邮箱！
+[2022-02-28 20:00:59][ERROR] [Senduseremailcode: acceptfunction.go: 92]发送失败！
+[2022-02-28 20:02:49][ERROR] [CheckUserEmail: dbfunction.go: 104]邮箱存在
+[2022-02-28 20:03:28][ERROR] [CheckUserEmail: dbfunction.go: 104]邮箱存在
+[2022-02-28 20:03:46][ERROR] [CheckUserEmail: dbfunction.go: 104]邮箱存在
+[2022-02-28 20:04:26][ERROR] [ForgetPassword: acceptfunction.go: 160]修改失败!
+[2022-02-28 20:05:21][ERROR] [CheckUserEmail: dbfunction.go: 104]邮箱存在
+[2022-02-28 20:05:41][ERROR] [ForgetPassword: acceptfunction.go: 160]修改失败!
+[2022-02-28 20:06:02][ERROR] [CheckUserEmail: dbfunction.go: 104]邮箱存在
+[2022-02-28 20:06:02][ERROR] [ChecktemperUserEmail: dbfunction.go: 88]邮箱存在
+[2022-02-28 20:06:23][ERROR] [CheckUserEmail: dbfunction.go: 104]邮箱存在
+[2022-02-28 20:09:48][ERROR] [ChecktemperUserEmail: dbfunction.go: 88]邮箱存在
+[2022-02-28 20:09:48][ERROR] [Sendemailcode: acceptfunction.go: 73]发送失败！
+[2022-02-28 20:10:03][ERROR] [ChecktemperUserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-02-28 20:10:03][ERROR] [CheckUserEmail: dbfunction.go: 104]邮箱存在
+[2022-02-28 20:10:03][ERROR] [Sendemailcode: acceptfunction.go: 73]发送失败！
+[2022-02-28 20:10:09][ERROR] [CheckUserEmail: dbfunction.go: 104]邮箱存在
+[2022-02-28 20:10:17][ERROR] [CheckUserEmail: dbfunction.go: 101]找不到邮箱！
+[2022-02-28 20:10:17][ERROR] [Senduseremailcode: acceptfunction.go: 92]发送失败！
+[2022-02-28 20:10:29][ERROR] [CheckUserEmail: dbfunction.go: 104]邮箱存在
+[2022-02-28 20:10:29][ERROR] [ChecktemperUserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-02-28 20:10:49][ERROR] [CheckUserEmail: dbfunction.go: 104]邮箱存在
+[2022-02-28 20:10:49][ERROR] [ChecktemperUserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-02-28 20:11:14][ERROR] [ForgetPassword: acceptfunction.go: 160]修改失败!
+[2022-02-28 20:11:18][ERROR] [CheckUserEmail: dbfunction.go: 101]找不到邮箱！
+[2022-02-28 20:11:18][ERROR] [Senduseremailcode: acceptfunction.go: 92]发送失败！
+[2022-02-28 20:11:23][ERROR] [CheckUserEmail: dbfunction.go: 104]邮箱存在
+[2022-02-28 20:11:38][ERROR] [CheckUserEmail: dbfunction.go: 104]邮箱存在
+[2022-02-28 20:11:38][ERROR] [ChecktemperUserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-02-28 20:11:55][ERROR] [CheckUserEmail: dbfunction.go: 104]邮箱存在
+[2022-02-28 20:11:55][ERROR] [ChecktemperUserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-02-28 20:12:31][ERROR] [ForgetPassword: acceptfunction.go: 160]修改失败!
+[2022-02-28 20:12:36][ERROR] [CheckUserEmail: dbfunction.go: 104]邮箱存在
+[2022-02-28 20:12:39][ERROR] [ForgetPassword: acceptfunction.go: 160]修改失败!
+[2022-02-28 20:12:41][ERROR] [ForgetPassword: acceptfunction.go: 160]修改失败!
+[2022-02-28 20:14:08][ERROR] [CheckUserEmail: dbfunction.go: 104]邮箱存在
+[2022-02-28 20:14:23][ERROR] [CheckUserEmail: dbfunction.go: 104]邮箱存在
+[2022-02-28 20:14:23][ERROR] [ChecktemperUserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-02-28 20:15:19][ERROR] [CheckUserEmail: dbfunction.go: 104]邮箱存在
+[2022-02-28 20:15:32][ERROR] [CheckUserEmail: dbfunction.go: 104]邮箱存在
+[2022-02-28 20:15:41][ERROR] [ForgetPassword: acceptfunction.go: 160]修改失败!
+[2022-02-28 20:15:46][ERROR] [CheckUserEmail: dbfunction.go: 104]邮箱存在
+[2022-03-01 19:26:52][ERROR] [CheckUserEmail: dbfunction.go: 104]邮箱存在
+[2022-03-01 19:29:22][ERROR] [ChecktemperUserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-01 19:29:24][ERROR] [CheckUserEmail: dbfunction.go: 104]邮箱存在
+[2022-03-01 19:29:24][ERROR] [Sendemailcode: acceptfunction.go: 73]发送失败！
+[2022-03-01 19:29:59][ERROR] [ChecktemperUserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-01 19:29:59][ERROR] [CheckUserEmail: dbfunction.go: 101]找不到邮箱！
+[2022-03-01 19:56:12][ERROR] [CheckAdminEmail: dbfunction.go: 417]找不到管理员！
+[2022-03-01 19:57:06][ERROR] [CheckAdminEmail: dbfunction.go: 417]找不到管理员！
+[2022-03-01 19:57:46][ERROR] [CheckAdminEmail: dbfunction.go: 420]管理员存在
+[2022-03-01 19:57:46][ERROR] [Sendadminemailcode: acceptfunction.go: 660]发送失败！
+[2022-03-01 19:58:46][ERROR] [BackRegister: acceptfunction.go: 394]注册失败!
+[2022-03-01 19:58:52][ERROR] [CheckAdminEmail: dbfunction.go: 417]找不到管理员！
+[2022-03-01 19:58:57][ERROR] [BackRegister: acceptfunction.go: 394]注册失败!
+[2022-03-01 19:59:18][ERROR] [BackRegister: acceptfunction.go: 394]注册失败!
+[2022-03-01 19:59:23][ERROR] [CheckAdminAccount: dbfunction.go: 402]找不到管理员！
+[2022-03-01 19:59:23][ERROR] [CheckAdminEmail: dbfunction.go: 417]找不到管理员！
+[2022-03-01 19:59:37][ERROR] [CheckAdminAccount: dbfunction.go: 405]管理员存在
+[2022-03-01 19:59:37][ERROR] [BackRegister: acceptfunction.go: 394]注册失败!
+[2022-03-01 19:59:45][ERROR] [CheckAdminAccount: dbfunction.go: 405]管理员存在
+[2022-03-01 19:59:45][ERROR] [BackRegister: acceptfunction.go: 394]注册失败!
+[2022-03-01 19:59:53][ERROR] [CheckAdminAccount: dbfunction.go: 402]找不到管理员！
+[2022-03-01 19:59:53][ERROR] [CheckAdminEmail: dbfunction.go: 417]找不到管理员！
+[2022-03-01 19:59:56][ERROR] [BackRegister: acceptfunction.go: 394]注册失败!
+[2022-03-01 19:59:59][ERROR] [CheckAdminEmail: dbfunction.go: 420]管理员存在
+[2022-03-01 19:59:59][ERROR] [Sendadminemailcode: acceptfunction.go: 660]发送失败！
+[2022-03-01 20:00:12][ERROR] [CheckAdminEmail: dbfunction.go: 417]找不到管理员！
+[2022-03-01 20:00:42][ERROR] [CheckAdminAccount: dbfunction.go: 402]找不到管理员！
+[2022-03-01 20:00:42][ERROR] [CheckAdminEmail: dbfunction.go: 420]管理员存在
+[2022-03-01 20:00:42][ERROR] [BackRegister: acceptfunction.go: 394]注册失败!
+[2022-03-01 20:01:05][ERROR] [CheckAdminAccount: dbfunction.go: 402]找不到管理员！
+[2022-03-01 20:01:05][ERROR] [CheckAdminEmail: dbfunction.go: 417]找不到管理员！
+[2022-03-01 20:18:55][ERROR] [CheckAdminEmailAndPassword: dbfunction.go: 449]找不到管理员！
+[2022-03-01 20:18:55][ERROR] [BackLogin: acceptfunction.go: 424]登录失败!
+[2022-03-01 20:19:36][ERROR] [CheckAdminEmailAndPassword: dbfunction.go: 449]找不到管理员！
+[2022-03-01 20:19:36][ERROR] [BackLogin: acceptfunction.go: 424]登录失败!
+[2022-03-01 20:20:58][ERROR] [ChecktemperUserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-01 20:21:19][ERROR] [CheckUserEmail: dbfunction.go: 101]找不到邮箱！
+[2022-03-01 20:22:31][ERROR] [ChecktemperUserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-01 20:22:52][ERROR] [CheckUserEmail: dbfunction.go: 101]找不到邮箱！
+[2022-03-01 20:24:31][ERROR] [ChecktemperUserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-01 20:24:52][ERROR] [CheckUserEmail: dbfunction.go: 101]找不到邮箱！
+[2022-03-01 20:25:56][ERROR] [ChecktemperUserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-01 20:26:17][ERROR] [CheckUserEmail: dbfunction.go: 101]找不到邮箱！
+[2022-03-01 20:35:48][ERROR] [ChecktemperUserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-01 20:36:09][ERROR] [CheckUserEmail: dbfunction.go: 101]找不到邮箱！
+[2022-03-01 20:41:51][ERROR] [ChecktemperUserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-01 20:42:12][ERROR] [CheckUserEmail: dbfunction.go: 101]找不到邮箱！
+[2022-03-01 20:52:01][ERROR] [ChecktemperUserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-01 20:52:22][ERROR] [CheckUserEmail: dbfunction.go: 101]找不到邮箱！
+[2022-03-01 21:21:29][ERROR] [ChecktemperUserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-01 21:21:29][ERROR] [CheckUserEmail: dbfunction.go: 101]找不到邮箱！
+[2022-03-03 19:32:34][ERROR] [CheckAdminEmail: dbfunction.go: 417]找不到管理员！
+[2022-03-03 19:33:55][ERROR] [CheckAdminEmail: dbfunction.go: 417]找不到管理员！
+[2022-03-03 19:34:32][ERROR] [CheckAdminAccount: dbfunction.go: 402]找不到管理员！
+[2022-03-03 19:34:32][ERROR] [CheckAdminEmail: dbfunction.go: 417]找不到管理员！
+[2022-03-03 19:34:35][ERROR] [CheckAdminAccount: dbfunction.go: 405]管理员存在
+[2022-03-03 19:34:35][ERROR] [BackRegister: acceptfunction.go: 394]注册失败!
+[2022-03-03 19:34:39][ERROR] [BackRegister: acceptfunction.go: 394]注册失败!
+[2022-03-03 19:34:43][ERROR] [CheckAdminEmail: dbfunction.go: 420]管理员存在
+[2022-03-03 19:34:43][ERROR] [Sendadminemailcode: acceptfunction.go: 681]发送失败！
+[2022-03-03 19:35:12][ERROR] [CheckAdminEmailAndPassword: dbfunction.go: 449]找不到管理员！
+[2022-03-03 19:35:12][ERROR] [BackLogin: acceptfunction.go: 424]登录失败!
+[2022-03-03 19:35:15][ERROR] [CheckAdminEmailAndPassword: dbfunction.go: 449]找不到管理员！
+[2022-03-03 19:35:15][ERROR] [BackLogin: acceptfunction.go: 424]登录失败!
+[2022-03-03 19:35:22][ERROR] [CheckAdminEmailAndPassword: dbfunction.go: 449]找不到管理员！
+[2022-03-03 19:35:22][ERROR] [BackLogin: acceptfunction.go: 424]登录失败!
+[2022-03-03 19:35:47][ERROR] [CheckAdminEmailAndPassword: dbfunction.go: 449]找不到管理员！
+[2022-03-03 19:35:47][ERROR] [BackLogin: acceptfunction.go: 424]登录失败!
+[2022-03-03 19:37:02][ERROR] [CheckAdminEmailAndPassword: dbfunction.go: 449]找不到管理员！
+[2022-03-03 19:37:02][ERROR] [BackLogin: acceptfunction.go: 424]登录失败!
+[2022-03-03 19:37:33][ERROR] [CheckAdminEmail: dbfunction.go: 417]找不到管理员！
+[2022-03-03 19:37:51][ERROR] [CheckAdminAccount: dbfunction.go: 402]找不到管理员！
+[2022-03-03 19:37:51][ERROR] [CheckAdminEmail: dbfunction.go: 417]找不到管理员！
+[2022-03-03 19:38:13][ERROR] [BackRegister: acceptfunction.go: 394]注册失败!
+[2022-03-03 19:38:27][ERROR] [SelectAdminAccount: dbfunction.go: 765]管理员存在
+[2022-03-03 19:44:55][ERROR] [ChecktemperUserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-03 19:44:55][ERROR] [CheckUserEmail: dbfunction.go: 101]找不到邮箱！
+[2022-03-03 19:45:20][ERROR] [CheckUserAccount: dbfunction.go: 65]找不到用户！
+[2022-03-03 19:45:20][ERROR] [CheckUser: dbfunction.go: 196]找不到用户！
+[2022-03-03 19:45:20][ERROR] [ChecktemperUserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-03 19:45:20][ERROR] [CheckUserEmail: dbfunction.go: 101]找不到邮箱！
+[2022-03-03 19:47:20][ERROR] [CheckAccountAndPassword: dbfunction.go: 120]找不到用户！
+[2022-03-03 19:47:20][ERROR] [CheckEmailAndPassword: dbfunction.go: 137]找不到用户！
+[2022-03-03 19:47:20][ERROR] [Login: acceptfunction.go: 140]登录失败!
+[2022-03-03 19:47:27][ERROR] [CheckAccountAndPassword: dbfunction.go: 120]找不到用户！
+[2022-03-03 19:47:27][ERROR] [CheckEmailAndPassword: dbfunction.go: 137]找不到用户！
+[2022-03-03 19:47:27][ERROR] [Login: acceptfunction.go: 140]登录失败!
+[2022-03-03 19:47:45][ERROR] [CheckAccountAndPassword: dbfunction.go: 120]找不到用户！
+[2022-03-03 19:47:45][ERROR] [CheckEmailAndPassword: dbfunction.go: 137]找不到用户！
+[2022-03-03 19:47:45][ERROR] [Login: acceptfunction.go: 140]登录失败!
+[2022-03-03 19:47:49][ERROR] [CheckAccountAndPassword: dbfunction.go: 120]找不到用户！
+[2022-03-03 19:47:49][ERROR] [CheckEmailAndPassword: dbfunction.go: 137]找不到用户！
+[2022-03-03 19:47:49][ERROR] [Login: acceptfunction.go: 140]登录失败!
+[2022-03-03 19:51:01][ERROR] [CheckAccountAndPassword: dbfunction.go: 120]找不到用户！
+[2022-03-03 19:51:01][ERROR] [CheckEmailAndPassword: dbfunction.go: 137]找不到用户！
+[2022-03-03 19:51:01][ERROR] [Login: acceptfunction.go: 140]登录失败!
+[2022-03-03 19:51:05][ERROR] [CheckAccountAndPassword: dbfunction.go: 120]找不到用户！
+[2022-03-03 19:51:05][ERROR] [CheckEmailAndPassword: dbfunction.go: 137]找不到用户！
+[2022-03-03 19:51:05][ERROR] [Login: acceptfunction.go: 140]登录失败!
+[2022-03-03 19:51:56][ERROR] [CheckAccountAndPassword: dbfunction.go: 120]找不到用户！
+[2022-03-03 19:51:57][ERROR] [CheckEmailAndPassword: dbfunction.go: 137]找不到用户！
+[2022-03-03 19:51:57][ERROR] [Login: acceptfunction.go: 141]登录失败!
+[2022-03-03 19:52:17][ERROR] [CheckEmailAndPassword: dbfunction.go: 137]找不到用户！
+[2022-03-03 19:54:36][ERROR] [CheckUser: dbfunction.go: 196]找不到用户！
+[2022-03-03 19:54:57][ERROR] [CheckUser: dbfunction.go: 196]找不到用户！
+[2022-03-03 19:56:05][ERROR] [CheckAccountAndPassword: dbfunction.go: 120]找不到用户！
+[2022-03-03 19:56:05][ERROR] [CheckEmailAndPassword: dbfunction.go: 137]找不到用户！
+[2022-03-03 19:56:05][ERROR] [Login: acceptfunction.go: 141]登录失败!
+[2022-03-03 20:06:57][ERROR] [ChecktemperUserEmail: dbfunction.go: 88]邮箱存在
+[2022-03-03 20:06:57][ERROR] [Sendemailcode: acceptfunction.go: 73]发送失败！
+[2022-03-03 20:07:22][ERROR] [CheckUserEmail: dbfunction.go: 104]邮箱存在
+[2022-03-03 20:07:44][ERROR] [RedactUseremail: acceptfunction.go: 252]修改失败!
+[2022-03-03 20:08:22][ERROR] [RedactUseremail: acceptfunction.go: 252]修改失败!
+[2022-03-03 20:08:29][ERROR] [CheckUserEmail: dbfunction.go: 104]邮箱存在
+[2022-03-03 20:08:35][ERROR] [RedactUseremail: acceptfunction.go: 252]修改失败!
+[2022-03-03 20:08:46][ERROR] [RedactUseremail: acceptfunction.go: 252]修改失败!
+[2022-03-03 20:10:06][ERROR] [RedactUseremail: acceptfunction.go: 252]修改失败!
+[2022-03-03 20:10:13][ERROR] [CheckAdminEmail: dbfunction.go: 420]管理员存在
+[2022-03-03 20:10:13][ERROR] [Sendadminemailcode: acceptfunction.go: 681]发送失败！
+[2022-03-03 20:10:18][ERROR] [CheckUserEmail: dbfunction.go: 104]邮箱存在
+[2022-03-03 20:10:23][ERROR] [RedactUseremail: acceptfunction.go: 252]修改失败!
+[2022-03-03 20:11:42][ERROR] [CheckUserEmail: dbfunction.go: 104]邮箱存在
+[2022-03-03 20:12:00][ERROR] [RedactUseremail: acceptfunction.go: 252]修改失败!
+[2022-03-03 20:12:28][ERROR] [ChecktemperUserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-03 20:12:28][ERROR] [CheckUserEmail: dbfunction.go: 101]找不到邮箱！
+[2022-03-03 20:12:56][ERROR] [RedactUseremail: acceptfunction.go: 252]修改失败!
+[2022-03-03 20:13:05][ERROR] [CheckEmailAndPassword: dbfunction.go: 137]找不到用户！
+[2022-03-03 20:13:08][ERROR] [CheckUserEmail: dbfunction.go: 104]邮箱存在
+[2022-03-03 20:13:38][ERROR] [RedactUseremail: acceptfunction.go: 252]修改失败!
+[2022-03-03 20:13:47][ERROR] [RedactUseremail: acceptfunction.go: 252]修改失败!
+[2022-03-03 20:13:55][ERROR] [ChecktemperUserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-03 20:13:55][ERROR] [CheckUserEmail: dbfunction.go: 104]邮箱存在
+[2022-03-03 20:13:55][ERROR] [RedactUseremail: acceptfunction.go: 252]修改失败!
+[2022-03-03 20:32:20][ERROR] [CheckEmailAndPassword: dbfunction.go: 137]找不到用户！
+[2022-03-03 20:32:27][ERROR] [CheckAccountAndPassword: dbfunction.go: 120]找不到用户！
+[2022-03-03 20:32:28][ERROR] [CheckEmailAndPassword: dbfunction.go: 137]找不到用户！
+[2022-03-03 20:32:28][ERROR] [Login: acceptfunction.go: 140]登录失败!
+[2022-03-03 20:32:32][ERROR] [CheckAccountAndPassword: dbfunction.go: 120]找不到用户！
+[2022-03-03 20:32:32][ERROR] [CheckEmailAndPassword: dbfunction.go: 137]找不到用户！
+[2022-03-03 20:32:32][ERROR] [Login: acceptfunction.go: 140]登录失败!
+[2022-03-03 20:32:39][ERROR] [CheckEmailAndPassword: dbfunction.go: 137]找不到用户！
+[2022-03-03 20:32:42][ERROR] [CheckAccountAndPassword: dbfunction.go: 120]找不到用户！
+[2022-03-03 20:32:42][ERROR] [CheckEmailAndPassword: dbfunction.go: 137]找不到用户！
+[2022-03-03 20:32:42][ERROR] [Login: acceptfunction.go: 140]登录失败!
+[2022-03-03 20:32:46][ERROR] [CheckEmailAndPassword: dbfunction.go: 137]找不到用户！
+[2022-03-04 19:14:14][ERROR] [CheckEmailAndPassword: dbfunction.go: 137]找不到用户！
+[2022-03-04 19:16:53][ERROR] [CheckEmailAndPassword: dbfunction.go: 137]找不到用户！
+[2022-03-04 19:28:00][ERROR] [CheckEmailAndPassword: dbfunction.go: 137]找不到用户！
+[2022-03-04 19:29:36][ERROR] [CheckEmailAndPassword: dbfunction.go: 137]找不到用户！
+[2022-03-04 19:32:16][ERROR] [CheckEmailAndPassword: dbfunction.go: 137]找不到用户！
+[2022-03-04 19:38:46][ERROR] [CheckAdminEmailAndPassword: dbfunction.go: 449]找不到管理员！
+[2022-03-04 19:38:46][ERROR] [BackLogin: acceptfunction.go: 424]登录失败!
+[2022-03-04 19:39:38][ERROR] [SelectAdminAccount: dbfunction.go: 765]管理员存在
+[2022-03-04 19:45:02][ERROR] [CheckUser: dbfunction.go: 196]找不到用户！
+[2022-03-05 19:29:09][ERROR] [SelectAdminAccount: dbfunction.go: 762]管理员存在
+[2022-03-05 21:35:38][ERROR] [SelectAdminAccount: dbfunction.go: 762]管理员存在
+[2022-03-05 21:39:22][ERROR] [SelectAdminAccount: dbfunction.go: 762]管理员存在
+[2022-03-05 21:39:43][ERROR] [SelectAdminAccount: dbfunction.go: 762]管理员存在
+[2022-03-05 21:40:13][ERROR] [CheckUserEmail: dbfunction.go: 103]邮箱存在
+[2022-03-05 21:41:52][ERROR] [CheckUserEmail: dbfunction.go: 103]邮箱存在
+[2022-03-05 21:42:12][ERROR] [CheckUserEmail: dbfunction.go: 103]邮箱存在
+[2022-03-05 21:43:21][ERROR] [CheckUserEmail: dbfunction.go: 103]邮箱存在
+[2022-03-06 13:41:46][ERROR] [SelectAdminAccount: dbfunction.go: 762]管理员存在
+[2022-03-06 13:42:34][ERROR] [SelectAdminAccount: dbfunction.go: 762]管理员存在
+[2022-03-06 13:43:35][ERROR] [SelectAdminAccount: dbfunction.go: 762]管理员存在
+[2022-03-06 13:47:34][ERROR] [SelectAdminAccount: dbfunction.go: 762]管理员存在
+[2022-03-06 13:54:31][ERROR] [SelectAdminAccount: dbfunction.go: 762]管理员存在
+[2022-03-06 14:01:08][ERROR] [SelectAdminAccount: dbfunction.go: 762]管理员存在
+[2022-03-06 14:02:26][ERROR] [SelectAdminAccount: dbfunction.go: 762]管理员存在
+[2022-03-06 14:13:36][ERROR] [SelectAdminAccount: dbfunction.go: 762]管理员存在
+[2022-03-06 14:21:24][ERROR] [SelectAdminAccount: dbfunction.go: 762]管理员存在
+[2022-03-06 14:21:59][ERROR] [SelectAdminAccount: dbfunction.go: 762]管理员存在
+[2022-03-06 14:22:40][ERROR] [SelectAdminAccount: dbfunction.go: 762]管理员存在
+[2022-03-06 14:24:43][ERROR] [SelectAdminAccount: dbfunction.go: 762]管理员存在
+[2022-03-06 14:27:08][ERROR] [CheckAccountAndPassword: dbfunction.go: 119]找不到用户！
+[2022-03-06 14:27:08][ERROR] [SelectUserAccount: dbfunction.go: 33]用户存在
+[2022-03-06 14:31:56][ERROR] [SelectAdminAccount: dbfunction.go: 762]管理员存在
+[2022-03-06 14:34:31][ERROR] [SelectAdminAccount: dbfunction.go: 762]管理员存在
+[2022-03-06 14:35:24][ERROR] [SelectAdminAccount: dbfunction.go: 762]管理员存在
+[2022-03-06 14:37:00][ERROR] [SelectAdminAccount: dbfunction.go: 762]管理员存在
+[2022-03-06 14:39:03][ERROR] [SelectAdminAccount: dbfunction.go: 762]管理员存在
+[2022-03-06 14:40:16][ERROR] [SelectAdminAccount: dbfunction.go: 762]管理员存在
+[2022-03-06 14:45:24][ERROR] [SelectAdminAccount: dbfunction.go: 763]管理员存在
+[2022-03-06 14:48:05][ERROR] [SelectAdminAccount: dbfunction.go: 764]管理员存在
+[2022-03-06 14:49:54][ERROR] [SelectAdminAccount: dbfunction.go: 764]管理员存在
+[2022-03-06 14:49:58][ERROR] [SelectAdminAccount: dbfunction.go: 764]管理员存在
+[2022-03-06 14:51:58][ERROR] [SelectAdminAccount: dbfunction.go: 764]管理员存在
+[2022-03-06 14:52:49][ERROR] [SelectAdminAccount: dbfunction.go: 764]管理员存在
+[2022-03-06 14:54:34][ERROR] [CheckUser: dbfunction.go: 195]找不到用户！
+[2022-03-06 14:56:32][ERROR] [Getvalue: redisdb.go: 45]redis: nil
+[2022-03-06 15:01:59][ERROR] [Passuser: dbfunction.go: 522]Error 1364: Field 'time' doesn't have a default value
+[2022-03-06 15:02:00][ERROR] [AdminSendEmail: emailcodedispose.go: 57]501 Bad address syntax. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000730
+[2022-03-06 15:02:00][ERROR] [Passtempuser: acceptfunction.go: 474]审核失败!
+[2022-03-06 15:02:48][ERROR] [Passuser: dbfunction.go: 522]Error 1364: Field 'time' doesn't have a default value
+[2022-03-06 15:02:49][ERROR] [Passtempuser: acceptfunction.go: 474]审核失败!
+[2022-03-06 15:14:49][ERROR] [ChecktemperUserEmail: dbfunction.go: 84]找不到邮箱！
+[2022-03-06 15:14:49][ERROR] [CheckUserEmail: dbfunction.go: 100]找不到邮箱！
+[2022-03-06 15:16:07][ERROR] [AdminSendEmail: emailcodedispose.go: 57]501 Bad address syntax. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000730
+[2022-03-06 15:20:12][ERROR] [AdminSendEmail: emailcodedispose.go: 57]501 Bad address syntax. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000730
+[2022-03-06 15:21:09][ERROR] [AdminSendEmail: emailcodedispose.go: 57]501 Bad address syntax. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000730
+[2022-03-06 15:21:33][ERROR] [AdminSendEmail: emailcodedispose.go: 57]501 Bad address syntax. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000730
+[2022-03-06 15:21:43][ERROR] [AdminSendEmail: emailcodedispose.go: 57]501 Bad address syntax. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000730
+[2022-03-06 15:23:32][ERROR] [init: redisdb.go: 29]DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+[2022-03-06 15:23:48][ERROR] [SelectAdminAccount: dbfunction.go: 766]管理员存在
+[2022-03-06 15:23:48][ERROR] [Setkey: redisdb.go: 36]DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+[2022-03-06 15:24:14][ERROR] [init: redisdb.go: 29]DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+[2022-03-06 15:24:22][ERROR] [SelectAdminAccount: dbfunction.go: 766]管理员存在
+[2022-03-06 15:24:22][ERROR] [Setkey: redisdb.go: 36]DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+[2022-03-06 15:26:20][ERROR] [init: redisdb.go: 29]ERR Client sent AUTH, but no password is set
+[2022-03-06 15:26:45][ERROR] [SelectAdminAccount: dbfunction.go: 766]管理员存在
+[2022-03-06 15:26:45][ERROR] [Setkey: redisdb.go: 36]ERR Client sent AUTH, but no password is set
+[2022-03-06 15:27:18][ERROR] [SelectAdminAccount: dbfunction.go: 766]管理员存在
+[2022-03-06 16:00:49][ERROR] [SelectAdminAccount: dbfunction.go: 766]管理员存在
+[2022-03-06 16:06:39][ERROR] [SelectAdminAccount: dbfunction.go: 766]管理员存在
+[2022-03-06 16:15:32][ERROR] [CheckUserEmail: dbfunction.go: 103]邮箱存在
+[2022-03-06 16:24:54][ERROR] [CheckUserEmail: dbfunction.go: 103]邮箱存在
+[2022-03-06 16:24:56][ERROR] [SendEmail: emailcodedispose.go: 84]Send Email Success
+[2022-03-06 16:30:03][ERROR] [SelectAdminAccount: dbfunction.go: 766]管理员存在
+[2022-03-06 16:30:16][ERROR] [AdminSendEmail: emailcodedispose.go: 126]501 Bad address syntax. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000730
+[2022-03-06 16:31:13][ERROR] [AdminSendEmail: emailcodedispose.go: 117]gomail: could not send email 1: gomail: invalid address "": mail: no address
+[2022-03-06 16:31:13][ERROR] [AdminSendEmail: emailcodedispose.go: 120]Send Email Success
+[2022-03-06 16:36:03][ERROR] [AdminSendEmail: emailcodedispose.go: 117]dial tcp 157.148.54.34:0: connectex: The requested address is not valid in its context.
+[2022-03-06 16:36:03][ERROR] [AdminSendEmail: emailcodedispose.go: 120]Send Email Success
+[2022-03-06 16:36:56][ERROR] [CheckUserEmail: dbfunction.go: 103]邮箱存在
+[2022-03-06 16:36:56][ERROR] [SendEmail: emailcodedispose.go: 74]dial tcp 157.148.54.34:0: connectex: The requested address is not valid in its context.
+[2022-03-06 16:36:56][ERROR] [Senduseremailcode: acceptfunction.go: 88]发送失败！
+[2022-03-06 16:37:40][ERROR] [CheckUserEmail: dbfunction.go: 100]找不到邮箱！
+[2022-03-06 16:37:40][ERROR] [Senduseremailcode: acceptfunction.go: 88]发送失败！
+[2022-03-06 16:38:00][ERROR] [CheckUserEmail: dbfunction.go: 103]邮箱存在
+[2022-03-06 16:38:00][ERROR] [SendEmail: emailcodedispose.go: 74]dial tcp 157.148.54.34:0: connectex: The requested address is not valid in its context.
+[2022-03-06 16:38:00][ERROR] [Senduseremailcode: acceptfunction.go: 88]发送失败！
+[2022-03-06 16:39:29][ERROR] [CheckUserEmail: dbfunction.go: 103]邮箱存在
+[2022-03-06 16:39:29][ERROR] [SendEmail: emailcodedispose.go: 74]dial tcp 157.148.54.34:0: connectex: The requested address is not valid in its context.
+[2022-03-06 16:39:29][ERROR] [Senduseremailcode: acceptfunction.go: 88]发送失败！
+[2022-03-06 16:39:35][ERROR] [CheckUserEmail: dbfunction.go: 103]邮箱存在
+[2022-03-06 16:39:35][ERROR] [SendEmail: emailcodedispose.go: 74]dial tcp 157.148.54.34:0: connectex: The requested address is not valid in its context.
+[2022-03-06 16:39:35][ERROR] [Senduseremailcode: acceptfunction.go: 88]发送失败！
+[2022-03-06 16:42:27][ERROR] [CheckUserEmail: dbfunction.go: 103]邮箱存在
+[2022-03-06 16:42:27][ERROR] [SendEmail: emailcodedispose.go: 74]dial tcp 157.148.54.34:0: connectex: The requested address is not valid in its context.
+[2022-03-06 16:42:27][ERROR] [Senduseremailcode: acceptfunction.go: 88]发送失败！
+[2022-03-06 16:43:00][ERROR] [CheckUserEmail: dbfunction.go: 103]邮箱存在
+[2022-03-06 16:43:01][ERROR] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-06 16:43:34][ERROR] [AdminSendEmail: emailcodedispose.go: 117]gomail: could not send email 1: gomail: invalid address "": mail: no address
+[2022-03-06 16:43:34][ERROR] [AdminSendEmail: emailcodedispose.go: 120]Send Email Success
+[2022-03-06 16:44:26][ERROR] [AdminSendEmail: emailcodedispose.go: 117]gomail: could not send email 1: gomail: invalid address "": mail: no address
+[2022-03-06 16:44:26][ERROR] [AdminSendEmail: emailcodedispose.go: 120]Send Email Success
+[2022-03-06 16:50:14][ERROR] [CheckUserEmail: dbfunction.go: 103]邮箱存在
+[2022-03-06 16:50:15][ERROR] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-06 16:51:23][ERROR] [AdminSendEmail: emailcodedispose.go: 117]gomail: could not send email 1: gomail: invalid address "": mail: no address
+[2022-03-06 16:51:23][ERROR] [AdminSendEmail: emailcodedispose.go: 119]Send Email Success
+[2022-03-06 16:55:26][ERROR] [CheckUserEmail: dbfunction.go: 103]邮箱存在
+[2022-03-06 16:55:27][ERROR] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-06 16:55:56][ERROR] [CheckUserEmail: dbfunction.go: 103]邮箱存在
+[2022-03-06 16:55:57][ERROR] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-06 16:56:02][ERROR] [AdminSendEmail: emailcodedispose.go: 119]gomail: could not send email 1: gomail: invalid address "": mail: no address
+[2022-03-06 17:01:28][ERROR] [AdminSendEmail: emailcodedispose.go: 121]Send Email Success
+[2022-03-06 17:03:35][ERROR] [AdminSendEmail: emailcodedispose.go: 121]Send Email Success
+[2022-03-06 17:05:26][ERROR] [AdminSendEmail: emailcodedispose.go: 121]Send Email Success
+[2022-03-06 17:07:17][ERROR] [AdminSendEmail: emailcodedispose.go: 121]Send Email Success
+[2022-03-06 17:09:28][ERROR] [AdminSendEmail: emailcodedispose.go: 121]Send Email Success
+[2022-03-06 17:13:17][ERROR] [AdminSendEmail: emailcodedispose.go: 121]Send Email Success
+[2022-03-06 17:14:01][ERROR] [AdminSendEmail: emailcodedispose.go: 121]Send Email Success
+[2022-03-06 17:17:52][ERROR] [AdminSendEmail: emailcodedispose.go: 121]Send Email Success
+[2022-03-06 17:24:42][ERROR] [Getvalue: redisdb.go: 50]redis: nil
+[2022-03-06 17:24:47][ERROR] [AdminSendEmail: emailcodedispose.go: 121]Send Email Success
+[2022-03-06 17:26:36][ERROR] [AdminSendEmail: emailcodedispose.go: 121]Send Email Success
+[2022-03-06 17:27:50][ERROR] [AdminSendEmail: emailcodedispose.go: 121]Send Email Success
+[2022-03-06 17:29:10][ERROR] [AdminSendEmail: emailcodedispose.go: 121]Send Email Success
+[2022-03-06 17:30:15][ERROR] [AdminSendEmail: emailcodedispose.go: 121]Send Email Success
+[2022-03-06 17:31:50][ERROR] [CheckUserEmail: dbfunction.go: 103]邮箱存在
+[2022-03-06 17:31:50][ERROR] [SendEmail: emailcodedispose.go: 74]dial tcp 157.148.54.34:0: connectex: The requested address is not valid in its context.
+[2022-03-06 17:31:50][ERROR] [Senduseremailcode: acceptfunction.go: 88]发送失败！
+[2022-03-06 17:32:17][ERROR] [CheckUserEmail: dbfunction.go: 100]找不到邮箱！
+[2022-03-06 17:32:17][ERROR] [Senduseremailcode: acceptfunction.go: 88]发送失败！
+[2022-03-06 17:33:11][ERROR] [CheckUserEmail: dbfunction.go: 103]邮箱存在
+[2022-03-06 17:33:12][ERROR] [SendEmail: emailcodedispose.go: 74]dial tcp 157.148.54.34:0: connectex: The requested address is not valid in its context.
+[2022-03-06 17:33:12][ERROR] [Senduseremailcode: acceptfunction.go: 88]发送失败！
+[2022-03-06 17:33:51][ERROR] [CheckUserEmail: dbfunction.go: 103]邮箱存在
+[2022-03-06 17:33:52][ERROR] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-06 19:57:33][ERROR] [init: utils.go: 34]open C:/Users/goodman/Desktop/jsb/conf.yaml: The system cannot find the file specified.
+[2022-03-06 19:58:13][ERROR] [CheckUserEmail: dbfunction.go: 100]找不到邮箱！
+[2022-03-06 19:58:13][ERROR] [Senduseremailcode: acceptfunction.go: 88]发送失败！
+[2022-03-06 19:58:51][ERROR] [init: utils.go: 35]open ../conf.yaml: The system cannot find the file specified.
+[2022-03-06 19:59:09][ERROR] [CheckUserEmail: dbfunction.go: 100]找不到邮箱！
+[2022-03-06 19:59:09][ERROR] [Senduseremailcode: acceptfunction.go: 88]发送失败！
+[2022-03-06 20:00:29][ERROR] [init: utils.go: 35]open C:\Users\goodman\Desktop\jsb\conf.yaml: The system cannot find the file specified.
+[2022-03-06 20:00:43][ERROR] [CheckUserEmail: dbfunction.go: 100]找不到邮箱！
+[2022-03-06 20:00:43][ERROR] [Senduseremailcode: acceptfunction.go: 88]发送失败！
+[2022-03-06 20:10:04][ERROR] [init: utils.go: 37]open ./../conf.yaml: The system cannot find the file specified.
+[2022-03-06 20:10:21][ERROR] [CheckUserEmail: dbfunction.go: 100]找不到邮箱！
+[2022-03-06 20:10:21][ERROR] [Senduseremailcode: acceptfunction.go: 88]发送失败！
+[2022-03-06 20:10:42][ERROR] [init: utils.go: 37]open conf.yaml: The system cannot find the file specified.
+[2022-03-06 20:11:05][ERROR] [init: utils.go: 37]open ./C:\Users\goodman\Desktop\jsb\conf.yaml: The filename, directory name, or volume label syntax is incorrect.
+[2022-03-06 20:11:42][ERROR] [init: utils.go: 37]open C:\Users\goodman\Desktop\jsb\conf.yaml: The system cannot find the file specified.
+[2022-03-06 20:13:35][ERROR] [CheckUserEmail: dbfunction.go: 103]邮箱存在
+[2022-03-06 20:13:36][ERROR] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-06 20:23:42][ERROR] [CheckUserEmail: dbfunction.go: 103]邮箱存在
+[2022-03-06 20:23:43][ERROR] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-06 20:26:31][ERROR] [CheckUserEmail: dbfunction.go: 103]邮箱存在
+[2022-03-06 20:26:38][ERROR] [CheckUserEmail: dbfunction.go: 103]邮箱存在
+[2022-03-06 20:27:51][ERROR] [CheckUserEmail: dbfunction.go: 103]邮箱存在
+[2022-03-06 20:27:52][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-06 20:30:43][INFO] [CheckUserEmail: dbfunction.go: 100]找不到邮箱！
+[2022-03-06 20:30:43][ERROR] [Senduseremailcode: acceptfunction.go: 88]发送失败！
+[2022-03-06 20:30:48][INFO] [CheckUserEmail: dbfunction.go: 100]找不到邮箱！
+[2022-03-06 20:30:48][ERROR] [Senduseremailcode: acceptfunction.go: 88]发送失败！
+[2022-03-07 16:55:51][ERROR] [init: redisdb.go: 34]DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+[2022-03-07 16:57:52][ERROR] [init: redisdb.go: 34]DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+[2022-03-07 17:00:04][ERROR] [init: redisdb.go: 34]DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+[2022-03-07 17:01:18][ERROR] [init: redisdb.go: 34]DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+[2022-03-07 17:07:15][ERROR] [init: redisdb.go: 34]DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+[2022-03-07 17:09:39][ERROR] [init: redisdb.go: 34]DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+[2022-03-07 17:11:56][ERROR] [init: redisdb.go: 34]DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+[2022-03-07 19:10:59][ERROR] [init: redisdb.go: 34]DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+[2022-03-07 19:12:33][INFO] [CheckUserEmail: dbfunction.go: 103]邮箱存在
+[2022-03-07 19:12:34][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-07 19:13:24][ERROR] [init: redisdb.go: 34]DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+[2022-03-07 19:13:34][INFO] [CheckUserEmail: dbfunction.go: 103]邮箱存在
+[2022-03-07 19:13:35][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-07 19:13:35][ERROR] [Setkey: redisdb.go: 41]DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+[2022-03-07 19:15:35][ERROR] [init: redisdb.go: 34]DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+[2022-03-07 19:15:50][INFO] [SelectAdminAccount: dbfunction.go: 766]管理员存在
+[2022-03-07 19:15:50][ERROR] [Setkey: redisdb.go: 41]DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+[2022-03-07 19:16:22][INFO] [CheckUserEmail: dbfunction.go: 103]邮箱存在
+[2022-03-07 19:16:23][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-07 19:16:23][ERROR] [Setkey: redisdb.go: 41]DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+[2022-03-07 19:19:14][ERROR] [init: redisdb.go: 34]DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+[2022-03-07 19:19:31][INFO] [CheckUserEmail: dbfunction.go: 103]邮箱存在
+[2022-03-07 19:19:32][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-07 19:19:32][ERROR] [Setkey: redisdb.go: 41]DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+[2022-03-07 19:29:17][INFO] [CheckUserEmail: dbfunction.go: 103]邮箱存在
+[2022-03-07 19:29:18][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-07 19:31:17][INFO] [CheckUserEmail: dbfunction.go: 103]邮箱存在
+[2022-03-07 19:31:18][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-07 19:50:18][INFO] [ChecktemperUserEmail: dbfunction.go: 84]找不到邮箱！
+[2022-03-07 19:50:18][INFO] [CheckUserEmail: dbfunction.go: 100]找不到邮箱！
+[2022-03-07 19:50:20][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-07 19:50:42][INFO] [ChecktemperUserEmail: dbfunction.go: 84]找不到邮箱！
+[2022-03-07 19:50:42][INFO] [CheckUserEmail: dbfunction.go: 100]找不到邮箱！
+[2022-03-07 19:50:43][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-07 20:05:20][INFO] [CheckAuserEmail: dbfunction.go: 84]找不到邮箱！
+[2022-03-07 20:05:21][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-07 20:06:32][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-07 20:06:33][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-07 20:08:04][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-07 20:08:05][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-07 20:08:20][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-07 20:08:21][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-07 20:08:54][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-07 20:08:56][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-07 20:09:20][INFO] [CheckAuserEmail: dbfunction.go: 88]邮箱存在
+[2022-03-07 20:09:46][INFO] [CheckAuserEmail: dbfunction.go: 88]邮箱存在
+[2022-03-07 20:10:07][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-07 20:10:08][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-07 20:18:05][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-07 20:18:06][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-07 20:18:25][INFO] [CheckAuserAccount: dbfunction.go: 101]找不到用户！
+[2022-03-07 20:18:25][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-07 20:18:25][ERROR] [SaveTempUser: dbfunction.go: 51]Error 1366: Incorrect string value: '\xE7\x94\xB7' for column 'sex' at row 1
+[2022-03-07 20:18:27][INFO] [CheckAuserAccount: dbfunction.go: 101]找不到用户！
+[2022-03-07 20:18:27][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-07 20:18:28][ERROR] [SaveTempUser: dbfunction.go: 51]Error 1366: Incorrect string value: '\xE7\x94\xB7' for column 'sex' at row 1
+[2022-03-07 20:19:32][ERROR] [Getvalue: redisdb.go: 50]redis: nil
+[2022-03-07 20:19:37][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-07 20:19:38][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-07 20:19:48][INFO] [CheckAuserAccount: dbfunction.go: 101]找不到用户！
+[2022-03-07 20:19:48][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-07 20:19:48][ERROR] [SaveTempUser: dbfunction.go: 51]Error 1366: Incorrect string value: '\xE7\x94\xB7' for column 'sex' at row 1
+[2022-03-07 20:22:21][ERROR] [Getvalue: redisdb.go: 50]redis: nil
+[2022-03-07 20:22:23][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-07 20:22:24][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-07 20:22:42][INFO] [CheckAuserAccount: dbfunction.go: 101]找不到用户！
+[2022-03-07 20:22:42][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-07 20:22:42][ERROR] [SaveTempUser: dbfunction.go: 51]Error 1366: Incorrect string value: '\xE7\x94\xB7' for column 'sex' at row 1
+[2022-03-07 20:23:52][ERROR] [Getvalue: redisdb.go: 50]redis: nil
+[2022-03-07 20:23:55][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-07 20:23:56][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-07 20:24:09][INFO] [CheckAuserAccount: dbfunction.go: 101]找不到用户！
+[2022-03-07 20:24:09][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-07 20:24:09][ERROR] [SaveTempUser: dbfunction.go: 51]sql: expected 7 arguments, got 8
+[2022-03-07 20:24:51][INFO] [CheckAuserAccount: dbfunction.go: 101]找不到用户！
+[2022-03-07 20:24:52][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-07 20:24:52][ERROR] [SaveTempUser: dbfunction.go: 51]Error 1136: Column count doesn't match value count at row 1
+[2022-03-07 20:26:58][ERROR] [Getvalue: redisdb.go: 50]redis: nil
+[2022-03-07 20:27:01][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-07 20:27:03][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-07 20:27:12][INFO] [CheckAuserAccount: dbfunction.go: 101]找不到用户！
+[2022-03-07 20:27:12][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-07 20:27:12][ERROR] [SaveTempUser: dbfunction.go: 51]Error 1136: Column count doesn't match value count at row 1
+[2022-03-07 20:28:23][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-07 20:28:24][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-07 20:28:40][INFO] [CheckAuserAccount: dbfunction.go: 101]找不到用户！
+[2022-03-07 20:28:40][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-07 20:28:40][ERROR] [SaveTempUser: dbfunction.go: 51]Error 1366: Incorrect string value: '\xE7\x94\xB7' for column 'sex' at row 1
+[2022-03-07 20:31:09][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-07 20:31:11][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-07 20:31:20][INFO] [CheckAuserAccount: dbfunction.go: 101]找不到用户！
+[2022-03-07 20:31:20][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-07 20:31:20][ERROR] [SaveTempUser: dbfunction.go: 51]Error 1366: Incorrect string value: '\xE7\x94\xB7' for column 'sex' at row 1
+[2022-03-07 20:33:06][ERROR] [Getvalue: redisdb.go: 50]redis: nil
+[2022-03-07 20:33:08][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-07 20:33:09][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-07 20:33:17][INFO] [CheckAuserAccount: dbfunction.go: 101]找不到用户！
+[2022-03-07 20:33:17][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-07 20:33:29][INFO] [CheckAuserAccount: dbfunction.go: 104]用户存在
+[2022-03-07 20:33:39][INFO] [CheckAuserAccount: dbfunction.go: 101]找不到用户！
+[2022-03-07 20:33:39][INFO] [CheckAuserEmail: dbfunction.go: 88]邮箱存在
+[2022-03-07 20:33:45][INFO] [CheckAuserAccount: dbfunction.go: 104]用户存在
+[2022-03-07 20:43:47][INFO] [CheckEmailAndPassword: dbfunction.go: 185]找不到用户！
+[2022-03-07 20:44:05][INFO] [CheckUserEmail: dbfunction.go: 149]找不到邮箱！
+[2022-03-07 20:44:23][INFO] [CheckUserEmail: dbfunction.go: 152]邮箱存在
+[2022-03-07 20:44:33][ERROR] [SendEmail: emailcodedispose.go: 74]dial tcp: i/o timeout
+[2022-03-07 20:45:30][INFO] [CheckUserEmail: dbfunction.go: 152]邮箱存在
+[2022-03-07 20:45:38][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-07 20:46:22][INFO] [CheckUserEmail: dbfunction.go: 152]邮箱存在
+[2022-03-07 20:46:32][INFO] [CheckUserEmail: dbfunction.go: 152]邮箱存在
+[2022-03-08 19:57:48][ERROR] [Getvalue: redisdb.go: 50]redis: nil
+[2022-03-08 19:58:03][INFO] [CheckEmailAndPassword: dbfunction.go: 185]找不到用户！
+[2022-03-08 19:58:37][INFO] [CheckAdminEmail: dbfunction.go: 466]找不到管理员！
+[2022-03-08 19:58:38][ERROR] [SendEmail: emailcodedispose.go: 74]gomail: could not send email 1: gomail: invalid address "": mail: no address
+[2022-03-08 19:59:11][ERROR] [CheckUser: dbfunction.go: 244]找不到用户！
+[2022-03-08 20:03:07][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-08 20:03:31][INFO] [CheckAuserEmail: dbfunction.go: 88]邮箱存在
+[2022-03-08 20:03:32][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-08 20:03:48][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-08 20:03:55][INFO] [CheckAuserEmail: dbfunction.go: 88]邮箱存在
+[2022-03-08 20:04:02][INFO] [CheckAuserEmail: dbfunction.go: 88]邮箱存在
+[2022-03-08 20:04:35][ERROR] [Getvalue: redisdb.go: 50]redis: nil
+[2022-03-08 20:04:42][INFO] [CheckAuserEmail: dbfunction.go: 88]邮箱存在
+[2022-03-08 20:04:43][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-08 20:04:57][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-08 20:06:25][INFO] [CheckAuserEmail: dbfunction.go: 88]邮箱存在
+[2022-03-08 20:06:26][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-08 20:07:28][INFO] [CheckAuserEmail: dbfunction.go: 88]邮箱存在
+[2022-03-08 20:07:29][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-08 20:09:02][INFO] [CheckAuserEmail: dbfunction.go: 88]邮箱存在
+[2022-03-08 20:09:03][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-08 20:09:29][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-08 20:16:11][INFO] [CheckAuserEmail: dbfunction.go: 88]邮箱存在
+[2022-03-08 20:16:12][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-08 20:16:25][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-08 20:17:32][ERROR] [Getvalue: redisdb.go: 50]redis: nil
+[2022-03-08 20:17:35][INFO] [CheckAuserEmail: dbfunction.go: 88]邮箱存在
+[2022-03-08 20:17:36][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-08 20:17:52][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-08 20:20:13][INFO] [CheckAuserEmail: dbfunction.go: 88]邮箱存在
+[2022-03-08 20:20:14][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-08 20:20:26][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-08 20:20:26][ERROR] [AddModifyUseremail: dbfunction.go: 287]Error 1366: Incorrect string value: '\xE6\x8D\xA2\xE9\x82\xAE...' for column 'reason' at row 1
+[2022-03-08 20:21:01][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-08 20:21:12][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-08 20:21:13][ERROR] [AddModifyUseremail: dbfunction.go: 287]Error 1062: Duplicate entry '1391382333@qq.com-456@qq.com' for key 'PRIMARY'
+[2022-03-08 20:21:25][ERROR] [Getvalue: redisdb.go: 50]redis: nil
+[2022-03-08 20:21:28][INFO] [CheckAuserEmail: dbfunction.go: 88]邮箱存在
+[2022-03-08 20:21:29][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-08 20:21:39][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-08 20:23:33][INFO] [CheckAuserEmail: dbfunction.go: 88]邮箱存在
+[2022-03-08 20:23:34][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-08 20:23:57][ERROR] [AddLogoutAccount: dbfunction.go: 229]Error 1054: Unknown column 'reason' in 'field list'
+[2022-03-08 20:24:52][ERROR] [Getvalue: redisdb.go: 50]redis: nil
+[2022-03-08 20:24:54][INFO] [CheckAuserEmail: dbfunction.go: 88]邮箱存在
+[2022-03-08 20:25:10][INFO] [CheckAuserEmail: dbfunction.go: 88]邮箱存在
+[2022-03-08 20:25:11][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-08 20:25:26][ERROR] [AddLogoutAccount: dbfunction.go: 229]Error 1054: Unknown column 'reason' in 'field list'
+[2022-03-08 20:26:23][INFO] [CheckAuserEmail: dbfunction.go: 88]邮箱存在
+[2022-03-08 20:26:24][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-08 20:42:21][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-08 20:42:24][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-08 20:43:19][INFO] [CheckAuserAccount: dbfunction.go: 101]找不到用户！
+[2022-03-08 20:43:20][ERROR] [SaveAdmin: dbfunction.go: 487]Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 50) values(?,?,?)' at line 1
+[2022-03-08 20:44:23][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-08 20:44:24][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-08 20:44:33][ERROR] [Getvalue: redisdb.go: 50]redis: nil
+[2022-03-08 20:44:51][INFO] [CheckAuserAccount: dbfunction.go: 101]找不到用户！
+[2022-03-08 20:44:51][ERROR] [SaveAdmin: dbfunction.go: 487]Error 1364: Field 'time' doesn't have a default value
+[2022-03-08 20:45:12][INFO] [CheckAuserAccount: dbfunction.go: 101]找不到用户！
+[2022-03-08 20:45:12][ERROR] [SaveAdmin: dbfunction.go: 487]Error 1364: Field 'time' doesn't have a default value
+[2022-03-08 20:45:22][INFO] [CheckAuserAccount: dbfunction.go: 104]用户存在
+[2022-03-08 20:47:11][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-08 20:47:12][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-08 20:47:22][INFO] [CheckAuserAccount: dbfunction.go: 101]找不到用户！
+[2022-03-08 20:48:20][INFO] [SelectAdminAccount: dbfunction.go: 821]找不到管理员！
+[2022-03-08 20:48:41][INFO] [CheckAdminEmailAndPassword: dbfunction.go: 506]找不到管理员！
+[2022-03-08 20:49:55][INFO] [SelectUserAccount: dbfunction.go: 33]用户存在
+[2022-03-08 20:50:52][INFO] [CheckAccountAndPassword: dbfunction.go: 168]找不到用户！
+[2022-03-08 20:50:52][INFO] [CheckEmailAndPassword: dbfunction.go: 185]找不到用户！
+[2022-03-08 20:50:56][INFO] [CheckAccountAndPassword: dbfunction.go: 168]找不到用户！
+[2022-03-08 20:50:56][INFO] [CheckEmailAndPassword: dbfunction.go: 185]找不到用户！
+[2022-03-08 20:51:01][INFO] [CheckAccountAndPassword: dbfunction.go: 168]找不到用户！
+[2022-03-08 20:51:01][INFO] [SelectUserAccount: dbfunction.go: 33]用户存在
+[2022-03-08 21:13:12][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-08 21:13:13][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-08 21:13:26][INFO] [CheckAuserAccount: dbfunction.go: 101]找不到用户！
+[2022-03-08 21:15:04][INFO] [CheckAuserEmail: dbfunction.go: 88]邮箱存在
+[2022-03-08 21:15:13][INFO] [CheckAuserEmail: dbfunction.go: 85]找不到邮箱！
+[2022-03-08 21:15:14][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-08 21:15:24][INFO] [CheckAuserAccount: dbfunction.go: 101]找不到用户！
+[2022-03-09 09:52:37][INFO] [CheckAdminEmailAndPassword: dbfunction.go: 483]找不到管理员！
+[2022-03-09 09:52:57][INFO] [CheckAccountAndPassword: dbfunction.go: 152]找不到用户！
+[2022-03-09 09:52:57][INFO] [SelectUserAccount: dbfunction.go: 33]用户存在
+[2022-03-09 09:53:09][INFO] [CheckAccountAndPassword: dbfunction.go: 152]找不到用户！
+[2022-03-09 09:53:09][INFO] [CheckEmailAndPassword: dbfunction.go: 169]找不到用户！
+[2022-03-09 09:54:06][INFO] [SelectUserAccount: dbfunction.go: 33]用户存在
+[2022-03-09 09:57:19][ERROR] [Showtempuser: dbfunction.go: 496]Error 1241: Operand should contain 1 column(s)
+[2022-03-09 09:57:22][ERROR] [Showtempuser: dbfunction.go: 496]Error 1241: Operand should contain 1 column(s)
+[2022-03-09 09:57:24][ERROR] [Showtempuser: dbfunction.go: 496]Error 1241: Operand should contain 1 column(s)
+[2022-03-09 09:58:04][ERROR] [Showtempuser: dbfunction.go: 496]Error 1241: Operand should contain 1 column(s)
+[2022-03-09 09:58:07][ERROR] [Showtempuser: dbfunction.go: 496]Error 1241: Operand should contain 1 column(s)
+[2022-03-09 09:58:11][ERROR] [Showtempuser: dbfunction.go: 496]Error 1241: Operand should contain 1 column(s)
+[2022-03-09 10:02:49][ERROR] [Showuser: dbfunction.go: 676]Error 1054: Unknown column 'acccount' in 'field list'
+[2022-03-09 10:17:55][INFO] [AdminSendEmail: emailcodedispose.go: 121]Send Email Success
+[2022-03-09 10:19:40][INFO] [AdminSendEmail: emailcodedispose.go: 121]Send Email Success
+[2022-03-09 10:21:52][INFO] [AdminSendEmail: emailcodedispose.go: 121]Send Email Success
+[2022-03-09 10:24:07][INFO] [AdminSendEmail: emailcodedispose.go: 121]Send Email Success
+[2022-03-09 10:24:23][INFO] [AdminSendEmail: emailcodedispose.go: 121]Send Email Success
+[2022-03-09 10:25:05][INFO] [AdminSendEmail: emailcodedispose.go: 121]Send Email Success
+[2022-03-09 10:28:41][INFO] [ChecktemperUserEmail: dbfunction.go: 117]找不到邮箱！
+[2022-03-09 10:28:41][INFO] [CheckUserEmail: dbfunction.go: 136]邮箱存在
+[2022-03-09 10:28:53][INFO] [ChecktemperUserEmail: dbfunction.go: 117]找不到邮箱！
+[2022-03-09 10:28:53][INFO] [CheckUserEmail: dbfunction.go: 133]找不到邮箱！
+[2022-03-09 10:29:05][INFO] [ChecktemperUserEmail: dbfunction.go: 117]找不到邮箱！
+[2022-03-09 10:29:05][INFO] [CheckUserEmail: dbfunction.go: 133]找不到邮箱！
+[2022-03-09 10:29:18][INFO] [ChecktemperUserEmail: dbfunction.go: 117]找不到邮箱！
+[2022-03-09 10:29:18][INFO] [CheckUserEmail: dbfunction.go: 133]找不到邮箱！
+[2022-03-09 10:30:30][INFO] [AdminSendEmail: emailcodedispose.go: 121]Send Email Success
+[2022-03-09 10:31:34][INFO] [AdminSendEmail: emailcodedispose.go: 121]Send Email Success
+[2022-03-09 21:00:56][INFO] [SelectUserAccount: dbfunction.go: 33]用户存在
+[2022-03-09 21:01:56][INFO] [SelectUserAccount: dbfunction.go: 33]用户存在
+[2022-03-09 21:05:43][INFO] [SelectUserAccount: dbfunction.go: 33]用户存在
+[2022-03-09 21:06:26][INFO] [CheckAuserEmail: dbfunction.go: 87]邮箱存在
+[2022-03-09 21:06:33][INFO] [CheckAuserEmail: dbfunction.go: 84]找不到邮箱！
+[2022-03-09 21:06:37][ERROR] [SendEmail: emailcodedispose.go: 74]gomail: could not send email 1: 550 Mail content denied. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000726 [MMz+UVjZUzIAIF6iFzQStt7+nErXXezKLTnzXZixOc7eHuHd5QOWu6oKr7g9k5GtvA== IP: 218.28.87.25]
+[2022-03-09 21:07:32][INFO] [CheckAuserEmail: dbfunction.go: 84]找不到邮箱！
+[2022-03-09 21:07:33][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-10 20:02:33][ERROR] [init: redisdb.go: 41]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-10 20:02:54][INFO] [CheckAuserEmail: dbfunction.go: 84]找不到邮箱！
+[2022-03-10 20:02:55][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-10 20:02:57][ERROR] [Setkey: redisdb.go: 51]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-10 20:03:15][INFO] [CheckAuserEmail: dbfunction.go: 84]找不到邮箱！
+[2022-03-10 20:03:15][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-10 20:28:06][INFO] [CheckEmailAndPassword: dbfunction.go: 169]找不到用户！
+[2022-03-10 21:00:48][INFO] [SelectUserAccount: dbfunction.go: 33]用户存在
+[2022-03-10 21:01:34][INFO] [CheckAdminEmailAndPassword: dbfunction.go: 547]找不到管理员！
+[2022-03-10 21:01:48][INFO] [ChecktemperUserEmail: dbfunction.go: 117]找不到邮箱！
+[2022-03-10 21:01:48][INFO] [CheckUserEmail: dbfunction.go: 133]找不到邮箱！
+[2022-03-10 21:01:49][ERROR] [ModifyUsername: dbfunction.go: 251]Error 1366: Incorrect string value: '\xE4\xBD\xA0\xE5\xA5\xBD' for column 'name' at row 1
+[2022-03-10 21:02:32][INFO] [ChecktemperUserEmail: dbfunction.go: 117]找不到邮箱！
+[2022-03-10 21:02:32][INFO] [CheckUserEmail: dbfunction.go: 133]找不到邮箱！
+[2022-03-10 21:02:49][INFO] [ChecktemperUserEmail: dbfunction.go: 117]找不到邮箱！
+[2022-03-10 21:02:49][INFO] [CheckUserEmail: dbfunction.go: 133]找不到邮箱！
+[2022-03-10 21:04:43][INFO] [CheckAuserEmail: dbfunction.go: 84]找不到邮箱！
+[2022-03-10 21:04:54][INFO] [CheckAuserEmail: dbfunction.go: 87]邮箱存在
+[2022-03-10 21:04:58][INFO] [CheckAuserEmail: dbfunction.go: 84]找不到邮箱！
+[2022-03-10 21:07:08][INFO] [CheckAuserEmail: dbfunction.go: 84]找不到邮箱！
+[2022-03-10 21:07:26][INFO] [CheckAuserEmail: dbfunction.go: 84]找不到邮箱！
+[2022-03-10 21:08:48][INFO] [CheckAuserEmail: dbfunction.go: 84]找不到邮箱！
+[2022-03-11 13:49:17][INFO] [CheckEmailAndPassword: dbfunction.go: 155]找不到用户！
+[2022-03-11 14:53:54][INFO] [CheckEmailAndPassword: dbfunction.go: 155]找不到用户！
+[2022-03-11 14:54:05][INFO] [CheckAccountAndPassword: dbfunction.go: 138]找不到用户！
+[2022-03-11 14:54:06][INFO] [CheckEmailAndPassword: dbfunction.go: 155]找不到用户！
+[2022-03-11 14:54:15][INFO] [CheckEmailAndPassword: dbfunction.go: 155]找不到用户！
+[2022-03-11 15:13:52][INFO] [CheckEmailAndPassword: dbfunction.go: 155]找不到用户！
+[2022-03-11 15:39:39][INFO] [CheckEmailAndPassword: dbfunction.go: 155]找不到用户！
+[2022-03-11 15:40:06][INFO] [CheckAuserEmail: dbfunction.go: 84]找不到邮箱！
+[2022-03-11 15:40:30][INFO] [CheckAuserEmail: dbfunction.go: 84]找不到邮箱！
+[2022-03-11 15:40:51][INFO] [CheckAuserEmail: dbfunction.go: 87]邮箱存在
+[2022-03-11 15:40:52][INFO] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-14 13:38:58][INFO] [CheckEmailAndPassword: dbfunction.go: 155]找不到用户！
+[2022-03-14 16:13:02][FATAL] [init: dbfunction.go: 31]sql: unknown driver "mysql" (forgotten import?)
+[2022-03-14 16:13:02][ERROR] [init: redisdb.go: 41]redis: can't parse reply="HTTP/1.1 200 OK" reading string
+[2022-03-14 16:14:19][FATAL] [init: dbfunction.go: 31]sql: unknown driver "mysql" (forgotten import?)
+[2022-03-14 16:15:07][FATAL] [init: dbfunction.go: 31]sql: unknown driver "mysql" (forgotten import?)
+[2022-03-14 16:17:45][FATAL] [init: dbfunction.go: 31]sql: unknown driver "mysql" (forgotten import?)
+[2022-03-14 16:19:51][INFO] [CheckAccountAndPassword: dbfunction.go: 160]找不到用户！
+[2022-03-14 16:19:51][INFO] [CheckEmailAndPassword: dbfunction.go: 177]找不到用户！
+[2022-03-14 16:23:53][INFO] [CheckAuserEmail: dbfunction.go: 110]邮箱存在
+[2022-03-14 16:42:00][INFO] [CheckAccountAndPassword: dbfunction.go: 160]找不到用户！
+[2022-03-14 16:42:00][INFO] [CheckEmailAndPassword: dbfunction.go: 177]找不到用户！
+[2022-03-14 19:43:35][Info] [CheckAuserEmail: dbfunction.go: 107]找不到邮箱！
+[2022-03-14 19:43:35][Error] [SendEmail: emailcodedispose.go: 74]dial tcp 58.251.106.181:0: connectex: The requested address is not valid in its context.
+[2022-03-14 19:45:04][Info] [CheckAuserEmail: dbfunction.go: 107]找不到邮箱！
+[2022-03-14 19:45:04][Error] [SendEmail: emailcodedispose.go: 74]dial tcp 58.251.106.181:0: connectex: The requested address is not valid in its context.
+[2022-03-14 19:48:55][Info] [CheckAuserEmail: dbfunction.go: 107]找不到邮箱！
+[2022-03-14 19:48:55][Error] [SendEmail: emailcodedispose.go: 74]dial tcp 58.251.106.181:0: connectex: The requested address is not valid in its context.
+[2022-03-14 19:53:51][Info] [CheckAuserEmail: dbfunction.go: 107]找不到邮箱！
+[2022-03-14 19:53:52][Info] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-14 20:03:32][Error] [init: redisdb.go: 42]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:04:04][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:04:21][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:04:26][Info] [CheckAuserEmail: dbfunction.go: 107]找不到邮箱！
+[2022-03-14 20:04:28][Info] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-14 20:04:30][Error] [Setkey: redisdb.go: 55]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:04:39][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:05:00][Info] [CheckAuserEmail: dbfunction.go: 107]找不到邮箱！
+[2022-03-14 20:05:01][Info] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-14 20:05:08][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:05:25][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:05:42][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:06:00][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:06:17][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:06:35][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:06:52][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:07:09][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:07:27][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:07:44][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:08:01][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:08:19][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:08:36][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:08:53][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:09:11][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:09:28][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:09:45][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:10:03][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:10:20][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:10:37][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:10:55][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:11:12][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:11:29][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:11:47][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:12:04][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:12:21][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:12:39][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:12:56][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:13:14][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:13:31][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:13:48][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:14:06][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:14:23][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:14:40][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:14:58][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:15:15][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:15:32][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:15:50][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:16:07][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:16:24][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:16:42][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:16:59][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:17:17][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:17:34][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:17:51][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:18:09][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:18:26][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:18:43][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:19:01][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:19:18][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:19:35][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:19:53][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:20:10][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:20:27][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:20:45][Error] [init: redisdb.go: 43]dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:22:39][Info] [CheckAuserEmail: dbfunction.go: 108]找不到邮箱！
+[2022-03-14 20:22:40][Info] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-14 20:24:33][Error] [init: redisdb.go: 43]wsarecv: An existing connection was forcibly closed by the remote host.
+[2022-03-14 20:24:38][Info] [CheckAuserEmail: dbfunction.go: 108]找不到邮箱！
+[2022-03-14 20:24:39][Info] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-14 20:24:41][Error] [Setkey: redisdb.go: 55]dial tcp 39.101.72.38:6379: connectex: No connection could be made because the target machine actively refused it.
+[2022-03-14 20:24:53][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:25:13][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:25:34][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:25:54][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:26:14][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:26:31][Info] [CheckAuserEmail: dbfunction.go: 108]找不到邮箱！
+[2022-03-14 20:26:32][Info] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-14 20:26:34][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:26:37][Error] [Setkey: redisdb.go: 55]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:26:54][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:27:14][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:27:34][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:27:54][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:28:14][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:28:34][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:28:54][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:29:01][Info] [CheckAuserEmail: dbfunction.go: 108]找不到邮箱！
+[2022-03-14 20:29:03][Info] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-14 20:29:08][Error] [Setkey: redisdb.go: 55]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:29:14][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:29:34][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:29:54][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:30:14][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:30:34][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:30:54][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:31:14][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:31:34][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:31:54][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:32:14][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:32:34][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:32:54][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:33:14][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:33:34][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:33:54][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:34:14][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:34:34][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:34:54][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:35:14][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:35:34][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:35:54][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:36:14][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:36:34][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:36:54][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:37:14][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:37:34][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:37:54][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:38:14][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:38:34][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:38:54][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:38:57][Info] [CheckAuserEmail: dbfunction.go: 108]找不到邮箱！
+[2022-03-14 20:39:00][Info] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-14 20:39:05][Error] [Setkey: redisdb.go: 55]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:39:14][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:39:34][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:39:54][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:40:14][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:40:34][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:40:54][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:41:14][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:41:34][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:41:54][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:42:14][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:42:34][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:42:54][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:43:14][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:43:34][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:43:54][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:44:14][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:44:34][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:44:54][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:45:14][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:45:34][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:45:54][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:46:14][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:46:35][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:46:55][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-14 20:47:15][Error] [init: redisdb.go: 43]dial tcp 39.101.72.38:6379: i/o timeout
+[2022-03-15 10:13:23][Info] [CheckAuserEmail: dbfunction.go: 108]找不到邮箱！
+[2022-03-15 10:13:24][Info] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-15 10:13:43][Error] [init: redisdb.go: 43]dial tcp 120.76.128.13:6379: i/o timeout
+[2022-03-15 10:14:04][Info] [CheckAuserAccount: dbfunction.go: 124]找不到用户！
+[2022-03-15 10:14:04][Info] [CheckAuserEmail: dbfunction.go: 108]找不到邮箱！
+[2022-03-15 10:14:04][Error] [SaveTempUser: dbfunction.go: 74]Error 1146: Table 'datadairy.Auser' doesn't exist
+[2022-03-15 10:20:30][Error] [init: redisdb.go: 43]dial tcp 120.76.128.13:6379: i/o timeout
+[2022-03-15 19:25:46][Error] [init: redisdb.go: 43]read tcp 172.23.161.124:11037->120.76.128.13:6379: i/o timeout
+[2022-03-15 19:26:01][Error] [init: redisdb.go: 43]redis: can't parse reply="HTTP/1.1 200 OK" reading string
+[2022-03-15 19:26:16][Error] [init: redisdb.go: 43]redis: can't parse reply="HTTP/1.1 200 OK" reading string
+[2022-03-15 19:26:31][Error] [init: redisdb.go: 43]redis: can't parse reply="HTTP/1.1 200 OK" reading string
+[2022-03-15 19:26:46][Error] [init: redisdb.go: 43]redis: can't parse reply="HTTP/1.1 200 OK" reading string
+[2022-03-15 19:27:01][Error] [init: redisdb.go: 43]redis: can't parse reply="HTTP/1.1 200 OK" reading string
+[2022-03-15 19:27:16][Error] [init: redisdb.go: 43]redis: can't parse reply="HTTP/1.1 200 OK" reading string
+[2022-03-15 19:27:31][Error] [init: redisdb.go: 43]redis: can't parse reply="HTTP/1.1 200 OK" reading string
+[2022-03-15 19:27:46][Error] [init: redisdb.go: 43]redis: can't parse reply="HTTP/1.1 200 OK" reading string
+[2022-03-15 19:28:01][Error] [init: redisdb.go: 43]redis: can't parse reply="HTTP/1.1 200 OK" reading string
+[2022-03-15 19:28:16][Error] [init: redisdb.go: 43]redis: can't parse reply="HTTP/1.1 200 OK" reading string
+[2022-03-15 19:28:31][Error] [init: redisdb.go: 43]redis: can't parse reply="HTTP/1.1 200 OK" reading string
+[2022-03-15 19:28:46][Error] [init: redisdb.go: 43]redis: can't parse reply="HTTP/1.1 200 OK" reading string
+[2022-03-15 19:29:01][Error] [init: redisdb.go: 43]redis: can't parse reply="HTTP/1.1 200 OK" reading string
+[2022-03-15 19:31:27][Error] [init: redisdb.go: 43]i/o timeout
+[2022-03-15 19:32:26][Error] [init: redisdb.go: 43]i/o timeout
+[2022-03-15 19:33:28][Info] [CheckAuserEmail: dbfunction.go: 108]找不到邮箱！
+[2022-03-15 19:33:29][Info] [SendEmail: emailcodedispose.go: 77]Send Email Success
+[2022-03-15 19:33:44][Info] [CheckAuserAccount: dbfunction.go: 124]找不到用户！
+[2022-03-15 19:33:44][Info] [CheckAuserEmail: dbfunction.go: 108]找不到邮箱！
+[2022-03-15 19:34:27][Error] [init: redisdb.go: 43]i/o timeout
+[2022-03-15 19:49:22][Error] [Getvalue: redisdb.go: 64]redis: nil
+[2022-03-15 19:49:28][Info] [CheckAuserEmail: dbfunction.go: 111]邮箱存在
+[2022-03-15 20:16:07][Error] [init: redisdb.go: 43]dial tcp 120.76.128.13:6379: i/o timeout
